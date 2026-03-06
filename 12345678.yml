@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-03-06T11:18:05+03:00">
+ <shop>
+  <name>ЭРФОЛГ</name>
+  <company>ЭРФОЛГ</company>
+  <url>https://arfolg-rus.ru</url>
+  <currencies>
+   <currency id="RUB" rate="1"></currency>
+  </currencies>
+  <categories>
+        <category id="1">Каталог</category>
+        <category id="2" parentId="1">SPF</category>
+        <category id="3" parentId="1">ампулы</category>
+        <category id="4" parentId="1">бальзам</category>
+        <category id="5" parentId="1">гель</category>
+        <category id="6" parentId="1">гель для глаз</category>
+        <category id="7" parentId="1">дневной крем</category>
+        <category id="8" parentId="1">дополнение, бад, добавка</category>
+        <category id="9" parentId="1">концентрат</category>
+        <category id="10" parentId="1">концентрат для бюста</category>
+        <category id="11" parentId="1">концентрат для волос</category>
+        <category id="12" parentId="1">концентрат для тела</category>
+        <category id="13" parentId="1">крем</category>
+        <category id="14" parentId="1">крем SPA</category>
+        <category id="15" parentId="1">крем для бюста</category>
+        <category id="16" parentId="1">крем для глаз</category>
+        <category id="17" parentId="1">крем для рук</category>
+        <category id="18" parentId="1">крем для тела</category>
+        <category id="19" parentId="1">крем для тела SPA</category>
+        <category id="20" parentId="1">крем-гель</category>
+        <category id="21" parentId="1">лосьон</category>
+        <category id="22" parentId="1">лосьон для бюста</category>
+        <category id="23" parentId="1">лосьон для тела</category>
+        <category id="24" parentId="1">лосьон-пилинг</category>
+        <category id="25" parentId="1">маска</category>
+        <category id="26" parentId="1">маска SPA</category>
+        <category id="27" parentId="1">маска для глаз</category>
+        <category id="28" parentId="1">масло SPA</category>
+        <category id="29" parentId="1">масло для массажа</category>
+        <category id="30" parentId="1">мицеллярный лосьон</category>
+        <category id="31" parentId="1">молочко</category>
+        <category id="32" parentId="1">молочко для тела</category>
+        <category id="33" parentId="1">мыло</category>
+        <category id="34" parentId="1">ночной крем</category>
+        <category id="35" parentId="1">профессиональная маска</category>
+        <category id="36" parentId="1">скраб</category>
+        <category id="37" parentId="1">скраб SPA</category>
+        <category id="38" parentId="1">сыворотка</category>
+        <category id="39" parentId="1">сыворотка для волос</category>
+        <category id="40" parentId="1">шампунь</category>
+        <category id="41" parentId="1">эфирное масло</category>
+      </categories>
+  <offers>
+   <offer id="coll001" available="true">
+    <url>https://arfolg-rus.ru/product/collagen1</url>
+    <price>4210</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>8</categoryId>
+    <name>Куриный коллаген (пептиды), 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/50010323_1920_q70.webp</picture>
+    <vendor>GlowSeoul</vendor>
+    <vendorCode>coll001</vendorCode>
+    <description><![CDATA[100% натуральный гипоаллергенный коллаген без добавок для укрепления и восстановления суставов, хрящей и связок]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="coll002" available="true">
+    <url>https://arfolg-rus.ru/product/collagen2</url>
+    <price>4460</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>8</categoryId>
+    <name>Морской коллаген (пептиды), 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/50008961_1920_q70.webp</picture>
+    <vendor>GlowSeoul</vendor>
+    <vendorCode>coll002</vendorCode>
+    <description><![CDATA[100% натуральный гипоаллергенный коллаген без добавок для укрепления и восстановления кожи, волос и ногтей]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="coll003" available="true">
+    <url>https://arfolg-rus.ru/product/collagen3</url>
+    <price>3735</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>8</categoryId>
+    <name>Говяжий коллаген (пептиды), 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/50010247_1920_q70.webp</picture>
+    <vendor>GlowSeoul</vendor>
+    <vendorCode>coll003</vendorCode>
+    <description><![CDATA[100% натуральный гипоаллергенный коллаген без добавок для укрепления и восстановления мышц, органов, сосудов и кишечника]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger0011" available="true">
+    <url>https://arfolg-rus.ru/glyco_очищающее_увлажняющее_молочко_для_лица/</url>
+    <price>6461</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>31</categoryId>
+    <name>GLYCO, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/42755441_238_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger0011</vendorCode>
+    <description><![CDATA[Очищающее увлажняющее молочко для лица]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger0021" available="true">
+    <url>https://arfolg-rus.ru/fibro_очищающий_восстанавливающий_лосьон_для_лица/</url>
+    <price>6461</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>21</categoryId>
+    <name>FIBRO, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/42755557_234_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger0021</vendorCode>
+    <description><![CDATA[Очищающий восстанавливающий лосьон для лица]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger003" available="true">
+    <url>https://arfolg-rus.ru/demaquillant_douceur_мицеллярный_лосьон_для_демакияжа_лица_и_глаз/</url>
+    <price>3901</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>30</categoryId>
+    <name>DEMAQUILLANT DOUCEUR, 200 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716123_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger003</vendorCode>
+    <description><![CDATA[Мицеллярный лосьон для демакияжа лица и глаз]]></description>
+    <param name="Объём">200 мл</param>
+   </offer>
+   <offer id="ger0041" available="true">
+    <url>https://arfolg-rus.ru/sebo_ger_лосьон_для_жирной_и_проблемной_кожи/</url>
+    <price>7192</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>21</categoryId>
+    <name>SEBO GER, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/48887993_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger0041</vendorCode>
+    <description><![CDATA[Лосьон для жирной и проблемной кожи]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger0051" available="true">
+    <url>https://arfolg-rus.ru/derma_жидкое_мыло_для_проблемной_кожи/</url>
+    <price>11459</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>33</categoryId>
+    <name>DERMA, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888003_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger0051</vendorCode>
+    <description><![CDATA[Жидкое мыло для проблемной кожи]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger006" available="true">
+    <url>https://arfolg-rus.ru/ger_peel_крем-скраб_для_лица/</url>
+    <price>8533</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>36</categoryId>
+    <name>GER PEEL, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888011_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger006</vendorCode>
+    <description><![CDATA[Крем-скраб для лица]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger007" available="true">
+    <url>https://arfolg-rus.ru/lotion_aux_acides_de_fleurs_цветочный_лосьон-пилинг_на_основе_фруктовых_кислот/</url>
+    <price>7558</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>24</categoryId>
+    <name>LOTION AUX ACIDES DE FLEURS, 40 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888033_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger007</vendorCode>
+    <description><![CDATA[Цветочный лосьон-пилинг на основе фруктовых кислот]]></description>
+    <param name="Объём">40 мл</param>
+   </offer>
+   <offer id="ger008" available="true">
+    <url>https://arfolg-rus.ru/vasco_крем-активатор_для_чувствительной_кожи/</url>
+    <price>10971</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>VASCO, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888071_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger008</vendorCode>
+    <description><![CDATA[Крем-активатор для чувствительной кожи с куперозом]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger009" available="true">
+    <url>https://arfolg-rus.ru/cold_cream_mousse_new_укрепляющий_крем-мусс_для_реактивной_кожи/</url>
+    <price>8777</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>COLD CREAM MOUSSE, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888077_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger009</vendorCode>
+    <description><![CDATA[Укрепляющий крем-мусс для реактивной кожи]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger010" available="true">
+    <url>https://arfolg-rus.ru/octo_крем-активатор_дезинкрустант/</url>
+    <price>9265</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>OCTO, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888081_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger010</vendorCode>
+    <description><![CDATA[Крем-активатор дезинкрустант для проблемной кожи]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger011" available="true">
+    <url>https://arfolg-rus.ru/crme_speciale_peaux_mixtes_et_grasses_крем-активатор_для_жирной_и_проблемной_кожи/</url>
+    <price>8046</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>CRÈME SPECIALE PEAUX MIXTES ET GRASSES, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888089_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger011</vendorCode>
+    <description><![CDATA[Крем-активатор для жирной и комбинированной кожи]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger012" available="true">
+    <url>https://arfolg-rus.ru/myo_myoso_крем-активатор_для_коррекции_мимических_морщин/</url>
+    <price>14750</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>MYO MYOSO, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716339_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger012</vendorCode>
+    <description><![CDATA[Крем-активатор для коррекции мимических морщин]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger013" available="true">
+    <url>https://arfolg-rus.ru/vital_transfer_visage_специальный_крем_для_кожи_лица_в_период_менопаузы/</url>
+    <price>14629</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>VITAL TRANSFER VISAGE, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888125_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger013</vendorCode>
+    <description><![CDATA[Специальный крем для кожи лица в период менопаузы]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger014" available="true">
+    <url>https://arfolg-rus.ru/synchro_регенерирующий_базовый_крем/</url>
+    <price>27550</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>SYNCHRO, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888211_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger014</vendorCode>
+    <description><![CDATA[Регенерирующий базовый крем]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger015" available="true">
+    <url>https://arfolg-rus.ru/synchro_2000_регенерирующий_базовый_крем_с_облегченной_текстурой/</url>
+    <price>14141</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>SYNCHRO 2000, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716560_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger015</vendorCode>
+    <description><![CDATA[Регенерирующий базовый крем с облегчённой текстурой]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger016" available="true">
+    <url>https://arfolg-rus.ru/nuclea_интенсивный_регенерирующий_крем/</url>
+    <price>17432</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>NUCLEA, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716577_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger016</vendorCode>
+    <description><![CDATA[Интенсивный регенерирующий крем]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger017" available="true">
+    <url>https://arfolg-rus.ru/cytobi_регенерирующий_питательный_крем/</url>
+    <price>20846</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>CYTOBI, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716600_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger017</vendorCode>
+    <description><![CDATA[Регенерирующий питательный крем]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger018" available="true">
+    <url>https://arfolg-rus.ru/mito_special_plus_омолаживающий_клеточный_концентрат-бустер/</url>
+    <price>10118</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>9</categoryId>
+    <name>MITO SPECIAL PLUS, 40 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716623_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger018</vendorCode>
+    <description><![CDATA[Омолаживающий клеточный концентрат-бустер]]></description>
+    <param name="Объём">40 мл</param>
+   </offer>
+   <offer id="ger019" available="true">
+    <url>https://arfolg-rus.ru/cells_life_интенсивная_восстанавливающая_сыворотка/</url>
+    <price>23893</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>38</categoryId>
+    <name>CELLS LIFE, 50 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888285_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger019</vendorCode>
+    <description><![CDATA[Интенсивная восстанавливающая сыворотка]]></description>
+    <param name="Объём">50 мл</param>
+   </offer>
+   <offer id="ger020" available="true">
+    <url>https://arfolg-rus.ru/tenseur_flash_лосьон_от_морщин_в_ампулах_40_7_ампул_2_мл/</url>
+    <price>5364</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>3</categoryId>
+    <name>TENSEUR FLASH 40+, 7 ампул х 2 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716692_184_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger020</vendorCode>
+    <description><![CDATA[Лосьон от морщин в ампулах 40+, 7 ампул х 2 мл]]></description>
+    <param name="Объём">7 ампул х 2 мл</param>
+   </offer>
+   <offer id="ger023" available="true">
+    <url>https://arfolg-rus.ru/lift_express_лосьон_от_первых_морщин_в_ампулах_30_7_ампул_2_мл/</url>
+    <price>4510</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>3</categoryId>
+    <name>LIFT EXPRESS 30+, 7 ампул х 2 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716707_145_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger023</vendorCode>
+    <description><![CDATA[Лосьон от первых морщин в ампулах 30+, 7 ампул х 2 мл]]></description>
+    <param name="Объём">7 ампул х 2 мл</param>
+   </offer>
+   <offer id="ger022" available="true">
+    <url>https://arfolg-rus.ru/sensi_boost_успокаивающий_лосьон_для_чувствительной_кожи_в_ампулах_7_ампул_2_мл/</url>
+    <price>5364</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>3</categoryId>
+    <name>SENSI BOOST, 7 ампул х 2 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716712_122_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger022</vendorCode>
+    <description><![CDATA[Успокаивающий лосьон для чувствительной кожи в ампулах, 7 ампул х 2 мл]]></description>
+    <param name="Объём">7 ампул х 2 мл</param>
+   </offer>
+   <offer id="ger021" available="true">
+    <url>https://arfolg-rus.ru/shine_control_матирующий_концентрат_для_жирной_и_комбинированной_кожи_7_ампул_2_мл/</url>
+    <price>4145</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>3</categoryId>
+    <name>SHINE CONTROL, 7 ампул х 2 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716719_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger021</vendorCode>
+    <description><![CDATA[Матирующий концентрат для жирной и комбинированной кожи, 7 ампул х 2 мл]]></description>
+    <param name="Объём">7 ампул х 2 мл</param>
+   </offer>
+   <offer id="ger024" available="true">
+    <url>https://arfolg-rus.ru/hydra_ger_увлажняющая_крем-маска/</url>
+    <price>8899</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>25</categoryId>
+    <name>HYDRA GER, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888313_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger024</vendorCode>
+    <description><![CDATA[Увлажняющая крем-маска]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger025" available="true">
+    <url>https://arfolg-rus.ru/argini_очищающая_успокаивающая_крем-маска/</url>
+    <price>8777</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>25</categoryId>
+    <name>ARGINI, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716763_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger025</vendorCode>
+    <description><![CDATA[Очищающая успокаивающая крем-маска]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger026" available="true">
+    <url>https://arfolg-rus.ru/immuno_регенерирующая_крем-маска/</url>
+    <price>12190</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>25</categoryId>
+    <name>IMMUNO, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716778_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger026</vendorCode>
+    <description><![CDATA[Регенерирующая крем-маска]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger027" available="true">
+    <url>https://arfolg-rus.ru/masque_yeux_лифтинговая_лимфодренажная_маска_для_век/</url>
+    <price>10484</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>27</categoryId>
+    <name>MASQUE YEUX, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716788_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger027</vendorCode>
+    <description><![CDATA[Лифтинговая лимфодренажная маска для век]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger028" available="true">
+    <url>https://arfolg-rus.ru/gel_contour_yeux_омолаживающий_дренажный_гель_для_контура_глаз_25_мл_туба/</url>
+    <price>6461</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>6</categoryId>
+    <name>GEL CONTOUR YEUX, 25 мл</name>
+    <picture>https://arfolg-rus.ru/img/41399026_176_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger028</vendorCode>
+    <description><![CDATA[Омолаживающий дренажный гель для контура глаз, 25 мл]]></description>
+    <param name="Объём">25 мл</param>
+   </offer>
+   <offer id="ger029" available="true">
+    <url>https://arfolg-rus.ru/lift_crme_лифтинговый_крем_для_ухода_за_кожей_вокруг_глаз_40_мл_туба_с_дозатором/</url>
+    <price>7436</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>16</categoryId>
+    <name>LIFT CRÈME, 40 мл</name>
+    <picture>https://arfolg-rus.ru/img/41716812_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger029</vendorCode>
+    <description><![CDATA[Лифтинговый крем для ухода за кожей вокруг глаз, 40 мл]]></description>
+    <param name="Объём">40 мл</param>
+   </offer>
+   <offer id="ger034" available="true">
+    <url>https://arfolg-rus.ru/tropo_plus_дневной_крем_для_сухой_кожи_150_мл_банка/</url>
+    <price>7802</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>7</categoryId>
+    <name>TROPO PLUS, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/41766896_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger034</vendorCode>
+    <description><![CDATA[Дневной крем для сухой кожи, 150 мл]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger033" available="true">
+    <url>https://arfolg-rus.ru/ger_oxy_увлажняющий_крем/</url>
+    <price>9021</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>7</categoryId>
+    <name>GER OXY, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888405_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger033</vendorCode>
+    <description><![CDATA[Увлажняющий крем]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger032" available="true">
+    <url>https://arfolg-rus.ru/symbiose_восстанавливающий_крем/</url>
+    <price>13531</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>SYMBIOSE, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48888425_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger032</vendorCode>
+    <description><![CDATA[Восстанавливающий крем для лица]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger030" available="true">
+    <url>https://arfolg-rus.ru/peaux_jeunes_крем_для_проблемной_кожи_50_мл_туба/</url>
+    <price>4876</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>7</categoryId>
+    <name>PEAUX JEUNES, 50 мл</name>
+    <picture>https://arfolg-rus.ru/img/41717926_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger030</vendorCode>
+    <description><![CDATA[Крем для проблемной кожи, 50 мл]]></description>
+    <param name="Объём">50 мл</param>
+   </offer>
+   <offer id="ger031" available="true">
+    <url>https://arfolg-rus.ru/creme_gg_крем_мультифункциональный_для_ухода_за_кожей_лица_с_тонирующим_эффектом_30_мл_туба/</url>
+    <price>4510</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>7</categoryId>
+    <name>CRÈME GG, 30 мл</name>
+    <picture>https://arfolg-rus.ru/img/41717945_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger031</vendorCode>
+    <description><![CDATA[Мультифункциональный крем для ухода за кожей с тонирующим эффектом, 30 мл]]></description>
+    <param name="Объём">30 мл</param>
+   </offer>
+   <offer id="ger035" available="true">
+    <url>https://arfolg-rus.ru/le_concentre_reparateur_омолаживающая_сыворотка-концентрат_17_мл_флакон_с_помпой/</url>
+    <price>8411</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>38</categoryId>
+    <name>LE CONCENTRÉ RÉPARATEUR, 17 мл</name>
+    <picture>https://arfolg-rus.ru/img/41717954_197_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger035</vendorCode>
+    <description><![CDATA[Омолаживающая сыворотка-концентрат LUX, 17 мл]]></description>
+    <param name="Объём">17 мл</param>
+   </offer>
+   <offer id="ger036" available="true">
+    <url>https://arfolg-rus.ru/la_crme_jeunesse_омолаживающий_дневной_крем_30_мл_банка/</url>
+    <price>16091</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>7</categoryId>
+    <name>LA CRÈME JEUNESSE, 30 мл</name>
+    <picture>https://arfolg-rus.ru/img/41717963_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger036</vendorCode>
+    <description><![CDATA[Омолаживающий дневной крем LUX, 30 мл]]></description>
+    <param name="Объём">30 мл</param>
+   </offer>
+   <offer id="ger037" available="true">
+    <url>https://arfolg-rus.ru/la_crme_anti-temps_омолаживающий_ночной_крем_30_мл_банка/</url>
+    <price>12069</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>34</categoryId>
+    <name>LA CRÈME ANTI-TEMPS, 30 мл</name>
+    <picture>https://arfolg-rus.ru/img/41717995_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger037</vendorCode>
+    <description><![CDATA[Омолаживающий ночной крем LUX, 30 мл]]></description>
+    <param name="Объём">30 мл</param>
+   </offer>
+   <offer id="ger038" available="true">
+    <url>https://arfolg-rus.ru/melano_15_cолнцезащитный_крем_для_лица_и_тела_spf_15_90_мл_туба/</url>
+    <price>3048</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>2</categoryId>
+    <name>MELANO 15, 90 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718016_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger038</vendorCode>
+    <description><![CDATA[Солнцезащитный крем для лица и тела SPF 15, 90 мл]]></description>
+    <param name="Объём">90 мл</param>
+   </offer>
+   <offer id="ger039" available="true">
+    <url>https://arfolg-rus.ru/melano_30_солнцезащитное_молочко_для_лица_и_тела_spf_30_125_мл_флакон_с_распылителем/</url>
+    <price>4267</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>2</categoryId>
+    <name>MELANO 30, 125 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718024_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger039</vendorCode>
+    <description><![CDATA[Солнцезащитное молочко для лица и тела SPF 30, 125 мл]]></description>
+    <param name="Объём">125 мл</param>
+   </offer>
+   <offer id="ger040" available="true">
+    <url>https://arfolg-rus.ru/melano_50_cолнцезащитный_крем_для_лица_и_тела_spf_50_125_мл_туба/</url>
+    <price>6095</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>2</categoryId>
+    <name>MELANO 50, 125 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718030_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger040</vendorCode>
+    <description><![CDATA[Солнцезащитный крем для лица и тела SPF 50, 125 мл]]></description>
+    <param name="Объём">125 мл</param>
+   </offer>
+   <offer id="ger041" available="true">
+    <url>https://arfolg-rus.ru/serum_depigmentant_skin_clair_depigmenting_депигментирующая_сыворотка_25_мл_туба/</url>
+    <price>8046</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>38</categoryId>
+    <name>SERUM DEPIGMENTANT SKIN CLAIR, 25 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718074_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger041</vendorCode>
+    <description><![CDATA[Депигментирующая сыворотка, 25 мл]]></description>
+    <param name="Объём">25 мл</param>
+   </offer>
+   <offer id="ger042" available="true">
+    <url>https://arfolg-rus.ru/creme_eclaircissante_skin_clair_whitening_отбеливающий_крем_50_мл_туба/</url>
+    <price>6705</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>CRÈME ECLAIRCISSANTE SKIN CLAIR, 50 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718093_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger042</vendorCode>
+    <description><![CDATA[Отбеливающий крем, 50 мл]]></description>
+    <param name="Объём">50 мл</param>
+   </offer>
+   <offer id="ger047" available="true">
+    <url>https://arfolg-rus.ru/gel_men_мужской_очищающий_гель_90_мл_туба/</url>
+    <price>2682</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>5</categoryId>
+    <name>GEL MEN, 90 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718127_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger047</vendorCode>
+    <description><![CDATA[Мужской очищающий гель, 90 мл]]></description>
+    <param name="Объём">90 мл</param>
+   </offer>
+   <offer id="ger046" available="true">
+    <url>https://arfolg-rus.ru/lift_men_лифтинговый_крем_для_мужчин_50_мл_туба/</url>
+    <price>6827</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>LIFT MEN, 50 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718138_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger046</vendorCode>
+    <description><![CDATA[Лифтинговый крем для мужчин, 50 мл]]></description>
+    <param name="Объём">50 мл</param>
+   </offer>
+   <offer id="ger045" available="true">
+    <url>https://arfolg-rus.ru/hydra_men_увлажняющий_крем_для_мужчин_50_мл_туба/</url>
+    <price>5242</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>13</categoryId>
+    <name>HYDRA MEN, 50 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718149_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger045</vendorCode>
+    <description><![CDATA[Увлажняющий крем для мужчин, 50 мл]]></description>
+    <param name="Объём">50 мл</param>
+   </offer>
+   <offer id="ger043" available="true">
+    <url>https://arfolg-rus.ru/baume_apres_rasage_противовоспалительный_бальзам_после_бритья_50_мл_туба/</url>
+    <price>4267</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>4</categoryId>
+    <name>BAUME APRÈS RASAGE, 50 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718160_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger043</vendorCode>
+    <description><![CDATA[Противовоспалительный бальзам после бритья, 50 мл]]></description>
+    <param name="Объём">50 мл</param>
+   </offer>
+   <offer id="ger044" available="true">
+    <url>https://arfolg-rus.ru/lhomme_мужской_крем-гель_3в1_против_усталости_кожи_50_мл_флакон_с_помпой/</url>
+    <price>6095</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>20</categoryId>
+    <name>L&#x27;HOMME, 50 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718168_190_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger044</vendorCode>
+    <description><![CDATA[Мужской крем-гель 3в1 против усталости кожи, 50 мл]]></description>
+    <param name="Объём">50 мл</param>
+   </offer>
+   <offer id="ger057" available="true">
+    <url>https://arfolg-rus.ru/lympho_лимфодренажный_лосьон/</url>
+    <price>8046</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>23</categoryId>
+    <name>LYMPHO, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718188_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger057</vendorCode>
+    <description><![CDATA[Лимфодренажный лосьон для тела]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger056" available="true">
+    <url>https://arfolg-rus.ru/veinulo_special_plus_антицеллюлитный_лимфодренажный_концентрат_40_мл_флакон_с_распылителем/</url>
+    <price>8777</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>12</categoryId>
+    <name>VEINULO SPECIAL PLUS, 40 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718205_175_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger056</vendorCode>
+    <description><![CDATA[Антицеллюлитный лимфодренажный концентрат, 40 мл]]></description>
+    <param name="Объём">40 мл</param>
+   </offer>
+   <offer id="ger055" available="true">
+    <url>https://arfolg-rus.ru/vasco_artera_антицеллюлитный_крем-активатор/</url>
+    <price>21333</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>18</categoryId>
+    <name>VASCO ARTERA, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/48909921_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger055</vendorCode>
+    <description><![CDATA[Антицеллюлитный крем-активатор]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger052" available="true">
+    <url>https://arfolg-rus.ru/adipo_gasta_липолитический_крем-активатор/</url>
+    <price>21333</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>18</categoryId>
+    <name>ADIPO GASTA, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/48909977_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger052</vendorCode>
+    <description><![CDATA[Липолитический крем-активатор для коррекции жировых отложений]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger053" available="true">
+    <url>https://arfolg-rus.ru/anti_stries_реструктуризирующий_подтягивающий_крем-активатор_125_мл_туба/</url>
+    <price>5120</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>18</categoryId>
+    <name>ANTI STRIES, 90 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718247_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger053</vendorCode>
+    <description><![CDATA[Реструктуризирующий подтягивающий крем-активатор против стрий, 125 мл]]></description>
+    <param name="Объём">90 мл</param>
+   </offer>
+   <offer id="ger054" available="true">
+    <url>https://arfolg-rus.ru/somito_лифтинговый_крем-активатор/</url>
+    <price>21333</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>18</categoryId>
+    <name>SOMITO, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/41718264_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger054</vendorCode>
+    <description><![CDATA[Лифтинговый крем-активатор для тела]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger051" available="true">
+    <url>https://arfolg-rus.ru/vital_transfer_corps_специальный_крем_для_кожи_тела_в_период_менопаузы/</url>
+    <price>14629</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>18</categoryId>
+    <name>VITAL TRANSFER CORPS, 250 мл</name>
+    <picture>https://arfolg-rus.ru/img/48910041_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger051</vendorCode>
+    <description><![CDATA[Специальный крем для кожи тела в период менопаузы]]></description>
+    <param name="Объём">250 мл</param>
+   </offer>
+   <offer id="ger050" available="true">
+    <url>https://arfolg-rus.ru/lait_corps_doucer_увлажняющее_и_восстанавливающее_молочко_для_тела/</url>
+    <price>7070</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>32</categoryId>
+    <name>LAIT CORPS DOUCER, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/48910067_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger050</vendorCode>
+    <description><![CDATA[Увлажняющее и восстанавливающее молочко для тела]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger049" available="true">
+    <url>https://arfolg-rus.ru/huile_de_massage_моделирующее_восстанавливающее_масло/</url>
+    <price>8290</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>29</categoryId>
+    <name>HUILE DE MASSAGE, 200 мл</name>
+    <picture>https://arfolg-rus.ru/img/41720446_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger049</vendorCode>
+    <description><![CDATA[Моделирующее восстанавливающее масло для тела]]></description>
+    <param name="Объём">200 мл</param>
+   </offer>
+   <offer id="ger048" available="true">
+    <url>https://arfolg-rus.ru/manno_омолаживающий_крем-активатор_для_рук_40_мл_туба/</url>
+    <price>2560</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>17</categoryId>
+    <name>MANNO, 40 мл</name>
+    <picture>https://arfolg-rus.ru/img/41720452_162_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger048</vendorCode>
+    <description><![CDATA[Омолаживающий крем-активатор для рук, 40 мл]]></description>
+    <param name="Объём">40 мл</param>
+   </offer>
+   <offer id="ger060" available="true">
+    <url>https://arfolg-rus.ru/seino_укрепляющий_тонизирующий_лосьон_для_бюста/</url>
+    <price>6461</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>22</categoryId>
+    <name>SEINO, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/48910107_183_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger060</vendorCode>
+    <description><![CDATA[Укрепляющий тонизирующий лосьон для бюста]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger059" available="true">
+    <url>https://arfolg-rus.ru/macro_2000_восстанавливающий_и_укрепляющий_крем_для_бюста/</url>
+    <price>14507</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>15</categoryId>
+    <name>MACRO 2000, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48910161_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger059</vendorCode>
+    <description><![CDATA[Восстанавливающий и укрепляющий крем для бюста]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger058" available="true">
+    <url>https://arfolg-rus.ru/endo_special_plus_восстанавливающий_биоактивный_концентрат_для_бюста_40_мл_флакон_с_распылителем/</url>
+    <price>8290</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>10</categoryId>
+    <name>ENDO SPECIAL PLUS, 40 мл</name>
+    <picture>https://arfolg-rus.ru/img/41720556_228_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger058</vendorCode>
+    <description><![CDATA[Восстанавливающий биоактивный концентрат для бюста, 40 мл]]></description>
+    <param name="Объём">40 мл</param>
+   </offer>
+   <offer id="ger067" available="true">
+    <url>https://arfolg-rus.ru/nettoyant_gommant_marin_очищающий_гель-скраб/</url>
+    <price>6095</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>37</categoryId>
+    <name>NETTOYANT GOMMANT MARIN, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/48910183_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger067</vendorCode>
+    <description><![CDATA[Очищающий гель-скраб из морской линии]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger066" available="true">
+    <url>https://arfolg-rus.ru/masque_marin_лифтинговая_крем-маска/</url>
+    <price>8411</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>26</categoryId>
+    <name>MASQUE MARIN, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48910225_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger066</vendorCode>
+    <description><![CDATA[Лифтинговая крем-маска из морской линии]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger065" available="true">
+    <url>https://arfolg-rus.ru/ger_lift_лифтинговый_крем-активатор/</url>
+    <price>10240</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>14</categoryId>
+    <name>GER LIFT, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48910265_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger065</vendorCode>
+    <description><![CDATA[Лифтинговый крем-активатор из морской линии]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger062" available="true">
+    <url>https://arfolg-rus.ru/base_de_jour_marine_увлажняющий_минерализующий_крем/</url>
+    <price>7558</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>7</categoryId>
+    <name>BASE DE JOUR MARINE, 150 мл</name>
+    <picture>https://arfolg-rus.ru/img/48910283_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger062</vendorCode>
+    <description><![CDATA[Увлажняющий минерализующий крем]]></description>
+    <param name="Объём">150 мл</param>
+   </offer>
+   <offer id="ger063" available="true">
+    <url>https://arfolg-rus.ru/gertherapi_восстанавливающий_крем_для_тела_с_расслабляющим_эффектом/</url>
+    <price>8899</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>19</categoryId>
+    <name>GERTHÉRAPI, 250 мл</name>
+    <picture>https://arfolg-rus.ru/img/48910309_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger063</vendorCode>
+    <description><![CDATA[Восстанавливающий крем для тела с расслабляющим эффектом]]></description>
+    <param name="Объём">250 мл</param>
+   </offer>
+   <offer id="ger064" available="true">
+    <url>https://arfolg-rus.ru/masque_marine_essence_лифтинговая_лимфодренажная_маска_из_7_видов_водорослей_2_кг_ведро/</url>
+    <price>11851</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>26</categoryId>
+    <name>MASQUE MARINE ESSENCE, 2 кг</name>
+    <picture>https://arfolg-rus.ru/img/41720775_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger064</vendorCode>
+    <description><![CDATA[Лифтинговая лимфодренажная маска из 7 видов водорослей, 2 кг]]></description>
+    <param name="Объём">2 кг</param>
+   </offer>
+   <offer id="ger061" available="true">
+    <url>https://arfolg-rus.ru/huile_de_beaute_дренажное_омолаживающее_масло_500_мл_флакон/</url>
+    <price>7924</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>28</categoryId>
+    <name>HUILE DE BEAUTÉ, 500 мл</name>
+    <picture>https://arfolg-rus.ru/img/41720792_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger061</vendorCode>
+    <description><![CDATA[Дренажное омолаживающее масло, 500 мл]]></description>
+    <param name="Объём">500 мл</param>
+   </offer>
+   <offer id="ger069" available="true">
+    <url>https://arfolg-rus.ru/medul_укрепляющий_восстанавливающий_шампунь_200_мл_флакон_с_помпой/</url>
+    <price>3535</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>40</categoryId>
+    <name>MEDUL, 200 мл</name>
+    <picture>https://arfolg-rus.ru/img/41720839_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger069</vendorCode>
+    <description><![CDATA[Укрепляющий восстанавливающий шампунь, 200 мл]]></description>
+    <param name="Объём">200 мл</param>
+   </offer>
+   <offer id="ger068" available="true">
+    <url>https://arfolg-rus.ru/cuticul_extra_plus_стимулирующий_концентрат_для_роста_волос_100_мл_флакон_с_распылителем/</url>
+    <price>4510</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>11</categoryId>
+    <name>CUTICUL EXTRA PLUS, 100 мл</name>
+    <picture>https://arfolg-rus.ru/img/41720854_218_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger068</vendorCode>
+    <description><![CDATA[Стимулирующий концентрат для роста волос, 100 мл]]></description>
+    <param name="Объём">100 мл</param>
+   </offer>
+   <offer id="ger069" available="true">
+    <url>https://arfolg-rus.ru/calming_capi_newсыворотка_для_активации_роста_волос_и_ухода_за_проблемной_кожей_головы/</url>
+    <price>5120</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>39</categoryId>
+    <name>CALMING CAPI, 7 ампул по 2 мл</name>
+    <picture>https://arfolg-rus.ru/img/50021223_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger069</vendorCode>
+    <description><![CDATA[Сыворотка для активации роста волос и ухода за проблемной кожей головы 7 ампул × 2 мл]]></description>
+    <param name="Объём">7 ампул по 2 мл</param>
+   </offer>
+   <offer id="ger070" available="true">
+    <url>https://arfolg-rus.ru/matiere_vegetale_моделирующая_восстанавливающая_растительная_маска_400_г_пакет/</url>
+    <price>3657</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>35</categoryId>
+    <name>MATIÈRE VÉGÉTALE, 400 г</name>
+    <picture>https://arfolg-rus.ru/img/41720868_197_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger070</vendorCode>
+    <description><![CDATA[Моделирующая восстанавливающая растительная маска, 400 г]]></description>
+    <param name="Объём">400 г</param>
+   </offer>
+   <offer id="ger071" available="true">
+    <url>https://arfolg-rus.ru/matiere_minerale_лифтинговая_термоактивная_минеральная_маска_350_г_пакет/</url>
+    <price>2926</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>35</categoryId>
+    <name>MATIÈRE MINÉRALE, 350 г</name>
+    <picture>https://arfolg-rus.ru/img/41720879_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger071</vendorCode>
+    <description><![CDATA[Лифтинговая термоактивная минеральная маска, 350 г]]></description>
+    <param name="Объём">350 г</param>
+   </offer>
+   <offer id="ger072" available="true">
+    <url>https://arfolg-rus.ru/peel_off_anti-age_маска_пластифицирующая_для_лица_500_г_ведро/</url>
+    <price>11581</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>35</categoryId>
+    <name>PEEL OFF ANTI-AGE, 500 г</name>
+    <picture>https://arfolg-rus.ru/img/41720884_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger072</vendorCode>
+    <description><![CDATA[Маска пластифицирующая для лица, 500 г]]></description>
+    <param name="Объём">500 г</param>
+   </offer>
+   <offer id="ger073" available="true">
+    <url>https://arfolg-rus.ru/huile_essentielle_lavandula_officinalis_эфирное_масло_лаванды_5_мл_флакон/</url>
+    <price>2560</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>41</categoryId>
+    <name>HUILE ESSENTIELLE LAVANDULA, 5 мл</name>
+    <picture>https://arfolg-rus.ru/img/41720893_160_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger073</vendorCode>
+    <description><![CDATA[Эфирное масло лаванды, 5 мл]]></description>
+    <param name="Объём">5 мл</param>
+   </offer>
+   <offer id="ger074" available="true">
+    <url>https://arfolg-rus.ru/huile_essentielle_cupressus_sempervirens_эфирное_масло_кипариса_5_мл_флакон/</url>
+    <price>2560</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>41</categoryId>
+    <name>HUILE ESSENTIELLE CUPRESSUS, 5 мл</name>
+    <picture>https://arfolg-rus.ru/img/41720907_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger074</vendorCode>
+    <description><![CDATA[Эфирное масло кипариса, 5 мл]]></description>
+    <param name="Объём">5 мл</param>
+   </offer>
+   <offer id="ger075" available="true">
+    <url>https://arfolg-rus.ru/huile_essentielle_ravensara_aromatica_эфирное_масло_равенсары_5_мл_флакон/</url>
+    <price>2560</price>
+    <currencyId>RUB</currencyId>
+    <categoryId>41</categoryId>
+    <name>HUILE ESSENTIELLE RAVENSARA, 5 мл</name>
+    <picture>https://arfolg-rus.ru/img/41720931_250_q70.webp</picture>
+    <vendor>GERnetic</vendor>
+    <vendorCode>ger075</vendorCode>
+    <description><![CDATA[Эфирное масло равенсары, 5 мл]]></description>
+    <param name="Объём">5 мл</param>
+   </offer>
+  </offers>
+ </shop>
+</yml_catalog>
