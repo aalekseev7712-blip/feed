@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-03-06T07:51:05+03:00">
   <shop>
-    <name>Мартинекс</name>
-    <company>Мартинекс</company>
+    <name>ЭРФОЛГ</name>
+    <company>ЭРФОЛГ</company>
     <url>https://arfolg-rus.ru</url>
     <currencies>
       <currency id="RUR" rate="1"/>
