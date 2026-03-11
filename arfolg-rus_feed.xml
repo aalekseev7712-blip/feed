@@ -1,0 +1,1800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-03-06T07:51:05+03:00">
+  <shop>
+    <name>Мартинекс</name>
+    <company>Мартинекс</company>
+    <url>https://arfolg-rus.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">клеточная космецевтика</category>
+      <category id="2">коллаген</category>
+      <category id="3">космецевтика, косметика</category>
+    </categories>
+    <offers>
+      <offer id="102310" available="true">
+        <name>Mesaltera VEGELIP FORTE CREAM 200 мл</name>
+        <url>https://arfolg-rus.ru/vegelip_cream_крем_восстанавливающий_увлажняющий/</url>
+        <price>2835</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Он обладает сильным антиоксидантным эффектом, стимулирует регенерацию клеток, уменьшает морщины и борется с преждевременным старением. Инновационная система Lipex Omega 3/6 обеспечивает доставку защищённых незаменимых жирных кислоты, которые улучшают здоровье клеточных мембран, защищают коллаген и повышают эластичность кожи, а также помогают сократить сухость и дискомфорт. Крем содержит запатентованный комплекс витаминов А, С и Е, который снимает воспаление, способствует удерживанию влаги и улучшает текстуру кожи. Ретинол в усваиваемой форме улучшает процессы эпителизации и кератинизации, а витамин С стимулирует выработку коллагена и осветляет пигментацию.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="102862" available="true">
+        <name>Mesaltera ANTI ACNE DRYING GEL 30 мл</name>
+        <url>https://arfolg-rus.ru/anti_acne_drying_gel_гель_для_проблемной_и_жирной_кожи/</url>
+        <price>1533</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Гель для быстрой коррекции элементов акне и постакне. Эффективно борется с имеющимися воспалительными элементами: подсушивает, уменьшает покраснение, отёк, зуд, ускоряет разрешение элементов акне. Предупреждает появление закрытых комедонов и милиумов, застойных пятен и пигментации, ускоряет регенерацию кожи. Уменьшает выработку себума и жирность кожи.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="105270" available="true">
+        <name>Mesaltera Anti Acne Serum 30 мл</name>
+        <url>https://arfolg-rus.ru/anti_acne_сыворотка_для_проблемной_и_жирной_кожи/</url>
+        <price>1733</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Сыворотка быстро устраняет элементы акне и покраснения, нормализует секрецию сальных желез, обладает успокаивающим действием, способствует выравниванию тона кожи]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="107530" available="true">
+        <name>Mesaltera Hyaluron Sunblock SPF 30+/PA+++ 75 мл</name>
+        <url>https://arfolg-rus.ru/hyaluron_sunblock_spf_30/pa_увлажняющий_солнцезащитный_крем_линии_mesaltera_by_dr._mikhaylova/</url>
+        <price>2678</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Мультиактивный крем с инновационным комплексом фотофильтров в сочетании с антиоксидантами защищает кожу от UVA/UVB лучей с фактором SPF 30/PA+++, обладает интенсивным увлажняющим, антиоксидантным и регенерирующим действием, препятствует пигментации и преждевременному старению кожи. Восстанавливает гидробаланс, повышает упругость кожи, притягивает и удерживает влагу. Защищает от воздействия свободных радикалов, предотвращает разрушение коллагена, улучшает цвет лица. Укрепляет защиту и поддерживает здоровый микробиом кожи.]]></description>
+        <param name="Объём">75 мл</param>
+      </offer>
+      <offer id="110470" available="true">
+        <name>Mesaltera HYALURON ACTIVE LOTION 195 мл</name>
+        <url>https://arfolg-rus.ru/hyaluron_active_lotion_лосьон_увлажняющий/</url>
+        <price>1554</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Защищает от действия свободных радикалов, восстанавливает здоровый микробиом, снимает раздражение, укрепляет барьерные функции кожи]]></description>
+        <param name="Объём">195 мл</param>
+      </offer>
+      <offer id="111357" available="true">
+        <name>Mesaltera ANTI ACNE CLEANSING GEL 200 мл</name>
+        <url>https://arfolg-rus.ru/anti_acne_cleansing_gel_гель_очищающий_для_проблемной_и_жирной_кожи/</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Anti Acne Cleansing Gel — специальный гель для очищения проблемной и склонной к жирности кожи. Активные компоненты (салициловая кислота, цинк, масло чайного дерева) оказывают антибактериальное, противовоспалительное и себорегулирующее действие. Средство эффективно удаляет излишки кожного сала, предотвращает появление новых высыпаний и сужает поры. Гель мягко очищает, не нарушая защитный барьер, и уменьшает жирный блеск. Для полного описания можно перейти на страницу товара на сайте.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="111431" available="true">
+        <name>Mesaltera SENSI ACTIVE LOTION 195 мл</name>
+        <url>https://arfolg-rus.ru/sensi_active_lotion_лосьон_успокаивающий_для_чувствительной_и_раздраженной_кожи/</url>
+        <price>1607</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Лосьон успокаивающий для чувствительной и раздраженной кожи оказывает мгновенное успокаивающее действие, убирает покраснения и раздражения, уменьшает реактивность кожи]]></description>
+        <param name="Объём">195 мл</param>
+      </offer>
+      <offer id="111602" available="true">
+        <name>Mesaltera HYALURON ACTIVE LOTION 400 мл</name>
+        <url>https://arfolg-rus.ru/hyaluron_active_lotion_лосьон_увлажняющий/</url>
+        <price>2310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Защищает от действия свободных радикалов, восстанавливает здоровый микробиом, снимает раздражение, укрепляет барьерные функции кожи]]></description>
+        <param name="Объём">400 мл</param>
+      </offer>
+      <offer id="112426" available="true">
+        <name>Mesaltera SENSI ACTIVE LOTION 400 мл</name>
+        <url>https://arfolg-rus.ru/sensi_active_lotion_лосьон_успокаивающий_для_чувствительной_и_раздраженной_кожи/</url>
+        <price>2310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Лосьон успокаивающий для чувствительной и раздраженной кожи оказывает мгновенное успокаивающее действие, убирает покраснения и раздражения, уменьшает реактивность кожи]]></description>
+        <param name="Объём">400 мл</param>
+      </offer>
+      <offer id="113456" available="true">
+        <name>Mesaltera ANTI ACNE ACTIVE LOTION 195 мл</name>
+        <url>https://arfolg-rus.ru/anti_acne_active_lotion_лосьон_для_проблемной_и_жирной_кожи/</url>
+        <price>1418</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Лосьон для проблемной и жирной кожи эффективно борется с акне и комедонами, предотвращая образование застойных пятен, отшелушивает ороговевшие клетки кожи]]></description>
+        <param name="Объём">195 мл</param>
+      </offer>
+      <offer id="113984" available="true">
+        <name>Mesaltera HYALURON EXPERT 150 мл</name>
+        <url>https://arfolg-rus.ru/aqua_expert_mask_маска_увлажняющая_для_обезвоженной_кожи/</url>
+        <price>2310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Маска c гиалуроновой кислотой для быстрого, глубокого увлажнения и восстановления обезвоженной сухой кожи моментально устраняет ощущение сухости, дегидратации и стянутости кожи. Восстанавливает эпидермальный барьер, обладает антиоксидантным действием, успокаивает и стимулирует регенерацию. Способствует улучшению рельефа и тона кожи, уменьшению выраженности морщин.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="115176" available="true">
+        <name>Mesaltera LIFT BTX PEPTIDE 150 мл</name>
+        <url>https://arfolg-rus.ru/lift_peptide_mask_маска_омолаживающая_для_возрастной_кожи_50_мл_туба/</url>
+        <price>3465</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Обеспечивает мгновенный лифтинг-эффект и уменьшает признаки старения, Разглаживает морщины и уменьшает глубину складок, Стимулирует выработку коллагена и эластина, Уменьшает отечность, улучшает микроциркуляцию, Интенсивно увлажняет и способствует удержанию влаги]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="119900" available="true">
+        <name>Mesaltera LIFT BTX PEPTIDE 50 мл</name>
+        <url>https://arfolg-rus.ru/lift_peptide_mask_маска_омолаживающая_для_возрастной_кожи_50_мл_туба/</url>
+        <price>2048</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Обеспечивает мгновенный лифтинг-эффект и уменьшает признаки старения, Разглаживает морщины и уменьшает глубину складок, Стимулирует выработку коллагена и эластина, Уменьшает отечность, улучшает микроциркуляцию, Интенсивно увлажняет и способствует удержанию влаги]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="120686" available="true">
+        <name>Mesaltera MICELLAR SENSI CLEANSER 195 мл</name>
+        <url>https://arfolg-rus.ru/micellar_sensi_cleanser_мицеллярная_вода_для_экспресс-демакияжа_лица_и_области_вокруг_глаз/</url>
+        <price>1029</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Бережно и эффективно очищает кожу лица (включая область губ и глаз) от загрязнений, излишков себума и макияжа. Оказывает мгновенное успокаивающее действие, убирает покраснения, снижает реактивность кожи и ускоряет регенерацию тканей. Обеспечивает интенсивное увлажнение.
+ Не нарушает естественный уровень pH и барьерные функции кожи. Подходит для любого типа кожи.]]></description>
+        <param name="Объём">195 мл</param>
+      </offer>
+      <offer id="121970" available="true">
+        <name>Mesaltera HYALURON EXPERT 50 мл</name>
+        <url>https://arfolg-rus.ru/aqua_expert_mask_маска_увлажняющая_для_обезвоженной_кожи/</url>
+        <price>1365</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Маска c гиалуроновой кислотой для быстрого, глубокого увлажнения и восстановления обезвоженной сухой кожи моментально устраняет ощущение сухости, дегидратации и стянутости кожи. Восстанавливает эпидермальный барьер, обладает антиоксидантным действием, успокаивает и стимулирует регенерацию. Способствует улучшению рельефа и тона кожи, уменьшению выраженности морщин.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="129820" available="true">
+        <name>Mesaltera SENSI PEPTIDE CREAM 150 мл</name>
+        <url>https://arfolg-rus.ru/sensi_peptide_cream_ламеллярный_крем_для_чувствительной_кожи_склонной_к_раздражению_покраснению_и_сухости/</url>
+        <price>2310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Успокаивающий и восстанавливающий ламеллярный крем мгновенно снижает покраснения и реактивность, смягчает, увлажняет, укрепляет кожный барьер, обеспечивая защиту от внешних факторов. Снижает гиперчувствительность, мгновенно уменьшая дискомфорт и реактивность. Усиливает процессы регенерации, укрепляет барьер кожи и заметно снижает её чувствительность к внешним раздражителям. Крем лёгкой, нежирной текстуры быстро впитывается и идеально подходит для ежедневного ухода за чувствительной кожей лица, в том числе после косметологических процедур.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="131559" available="true">
+        <name>Mesaltera ANTI ACNE SMART 50 мл</name>
+        <url>https://arfolg-rus.ru/anti_acne_smart_увлажняющий_себорегулирующий_ламеллярный_крем_для_проблемной_кожи/</url>
+        <price>1733</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Лёгкий ламеллярный крем для ухода за жирной, комбинированной и проблемной кожей, склонной к высыпаниям. Регулирует выделение себума, уменьшает жирный блеск и предотвращает появление новых элементов акне, при этом интенсивно увлажняя кожу и восстанавливаят гидро-липидный баланс. Уменьшает видимость пор и способствует снижению активности бактерий, вызывающих акне, придавая коже ровный матовый вид, поддерживает микробиом, обладает кератолитическим и антимикробным действиями. Успокаивает и уменьшает покраснения, нормализует гормональный фон кожи, экстракт клевера снижает работу сальных желёз.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="131560" available="true">
+        <name>Mesaltera SLEEPING MASK 50 мл</name>
+        <url>https://arfolg-rus.ru/sleeping_mask_маска_биоревитализирующая_50_мл/</url>
+        <price>2258</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Биоревитализирующая ночная маска MESALTERA от Dr. Mikhaylova представляет собой инновационный уход за кожей. Ее уникальная текстура 'гель-трап' обеспечивает интенсивное и продолжительное увлажнение. Комплекс Hydraprotectol SM мгновенно восстанавливает водный баланс кожи. Активный ингредиент PENTAVITIN® действует как 'водный магнит', связываясь с кератином рогового слоя эпидермиса. Маска также содержит комплекс Pronalen, который успокаивает чувствительную кожу и защищает ее от негативного воздействия окружающей среды.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="131884" available="true">
+        <name>Mesaltera RETIN ADVANCE 30 мл</name>
+        <url>https://arfolg-rus.ru/retin_advance_сыворотка_для_лица_с_ретинолом/</url>
+        <price>2415</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Уменьшает мимические и статические морщины, стимулирует синтез коллагена и пролиферацию клеток, ускоряет регенерацию кожи, повышает её тургор и эластичность. Оказывает мгновенный эффект: заметный лифтинг, увлажнённая, напитанная, гладкая кожа. Накопительный омолаживающий эффект: уменьшает морщины и глубину складок, усиливает пролиферацию кератиноцитов, выравнивает тон кожи, восстанавливает её упругость и эластичность. Глубоко увлажняет, устраняя сухость и улучшая тургор, уменьшает морщины, сглаживает текстуру, повышает уровень гидратации и эластичность кожи.
+ 
+ Восстанавливает эпидермальный барьер, поддерживает здоровый микробиом, повышает защитные функции кожи.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="132210" available="true">
+        <name>Mesaltera LIFT PEPTIDE EYE SERUM 20 мл</name>
+        <url>https://arfolg-rus.ru/lift_peptide_eye_serum_лифтинговая_сыворотка_для_области_вокруг_глаз/</url>
+        <price>2258</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Благодаря комплексу пептидов расслабляет мышцы лица, сокращает количество и глубину мимических и статических морщин, препятствует их формированию. Борется с морщинами в области вокруг глаз, уменьшает их глубину и предотвращает появление. Устраняет отёки и тёмные круги, улучшает микроциркуляцию, поддерживает эластичность кожи, стимулирует производство нового коллагена и эластина.]]></description>
+        <param name="Объём">20 мл</param>
+      </offer>
+      <offer id="132988" available="true">
+        <name>Mesaltera WHITE ACTIVE 50 мл</name>
+        <url>https://arfolg-rus.ru/white_active_осветляющий_депигментирующий_ламеллярный_крем/</url>
+        <price>2520</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Устраняет все типы пигментных пятен и препятствует их появлению, выравнивает тон и рельеф кожи, обладает отбеливающим, омолаживающим и антиоксидантным действием. Благодаря синергичной комбинации компонентов действует на всех ключевых этапах образования меланина. Стимулирует обновление клеток, устраняет дисхромию, выравнивает тон, вместе с кислотами способствует удалению с поверхности роговых частиц, содержащих пигмент, повышает упругость кожи и уменьшает морщины. Эффективно уменьшает интенсивность и площадь пигментных пятен любого происхождения, снижает поствоспалительную пигментацию, препятствует её повторному появлению. Защищает кожу от свободных радикалов и предупреждает фотостарение.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="133155" available="true">
+        <name>Mesaltera SENSI PEPTIDE CREAM 50 мл</name>
+        <url>https://arfolg-rus.ru/sensi_peptide_cream_ламеллярный_крем_для_чувствительной_кожи_склонной_к_раздражению_покраснению_и_сухости/</url>
+        <price>1733</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Успокаивающий и восстанавливающий ламеллярный крем мгновенно снижает покраснения и реактивность, смягчает, увлажняет, укрепляет кожный барьер, обеспечивая защиту от внешних факторов. Снижает гиперчувствительность, мгновенно уменьшая дискомфорт и реактивность. Усиливает процессы регенерации, укрепляет барьер кожи и заметно снижает её чувствительность к внешним раздражителям. Крем лёгкой, нежирной текстуры быстро впитывается и идеально подходит для ежедневного ухода за чувствительной кожей лица, в том числе после косметологических процедур.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="141858" available="true">
+        <name>Mesaltera PYRULIFT DMAE PEEL 30 мл</name>
+        <url>https://arfolg-rus.ru/pyrulift_dmae_peel_мультикислотный_пилинг_с_эффектом_лифтинга_ph_2.0_30_мл_флакон/</url>
+        <price>2835</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Эффективно работает на восстановление четкого контура лица, устраняет провисание кожи, регулирует мышечный тонус, сокращает морщины и выравнивает микрорельеф]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="141861" available="true">
+        <name>Mesaltera SENSI PLUS CREAM 50 мл</name>
+        <url>https://arfolg-rus.ru/sensi_plus_cream_крем_успокаивающий_для_чувствительной_и_раздраженной_кожи/</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Он подходит для кожи, реагирующей на температурные перепады и различные раздражители. Комплекс Pacifeel™ мгновенно облегчает дискомфорт, уменьшает покраснения и ощущение сухости. При регулярном применении крем помогает устранить причины раздражения, снижает чувствительность и укрепляет защитные функции кожи. Он также способствует синтезу собственных источников увлажнения и упругости.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="142102" available="true">
+        <name>Mesaltera AQUA EXPERT CREAM 50 мл</name>
+        <url>https://arfolg-rus.ru/aqua_expert_cream_крем_увлажняющий_для_обезвоженной_кожи/</url>
+        <price>1780</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Лёгкий ламеллярный крем с интенсивным и длительным увлажняющим действием мгновенно впитывается, глубоко насыщает влагой, восстанавливает гидролипидный баланс и устраняет сухость и шелушение, делая кожу гладкой и упругой. Работает на всех уровнях кожи: уменьшает морщины, выравнивает микрорельеф, а в глубоких слоях стимулирует выработку собственной гиалуроновой кислоты для долговременного увлажнения. Блокирует трансэпидермальную потерю влаги, устраняя сухость, укрепляет защитный барьер, защищает от свободных радикалов и оказывает антиоксидантное действие, поддерживает здоровый микробиом.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="142119" available="true">
+        <name>Mesaltera AQUA EXPERT CREAM 150 мл</name>
+        <url>https://arfolg-rus.ru/aqua_expert_cream_крем_увлажняющий_для_обезвоженной_кожи/</url>
+        <price>2310</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Лёгкий ламеллярный крем с интенсивным и длительным увлажняющим действием мгновенно впитывается, глубоко насыщает влагой, восстанавливает гидролипидный баланс и устраняет сухость и шелушение, делая кожу гладкой и упругой. Работает на всех уровнях кожи: уменьшает морщины, выравнивает микрорельеф, а в глубоких слоях стимулирует выработку собственной гиалуроновой кислоты для долговременного увлажнения. Блокирует трансэпидермальную потерю влаги, устраняя сухость, укрепляет защитный барьер, защищает от свободных радикалов и оказывает антиоксидантное действие, поддерживает здоровый микробиом.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="142498" available="true">
+        <name>Mesaltera RENEW ACID CLEANSER 200 мл</name>
+        <url>https://arfolg-rus.ru/renew_acid_cleanser_mультикислотный_гель_для_глубокого_очищения_кожи_200_мл_флакон_с_дозатором/</url>
+        <price>1523</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Renew Acid Cleanser — мультикислотный очищающий гель для интенсивного, но бережного очищения. Сочетание гликолевой, молочной и салициловой кислот эффективно растворяет загрязнения в порах, отшелушивает ороговевшие клетки и борется с черными точками. Средство регулирует работу сальных желез, выравнивает рельеф и тон кожи, способствуя ее обновлению. Нежная формула подходит для регулярного использования и готовит кожу к дальнейшему уходу. Для полного описания можно перейти на страницу товара на сайте.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="142964" available="true">
+        <name>Mesaltera VEGELIP FORTE CREAM 50 мл</name>
+        <url>https://arfolg-rus.ru/vegelip_cream_крем_восстанавливающий_увлажняющий/</url>
+        <price>1838</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Он обладает сильным антиоксидантным эффектом, стимулирует регенерацию клеток, уменьшает морщины и борется с преждевременным старением. Инновационная система Lipex Omega 3/6 обеспечивает доставку защищённых незаменимых жирных кислоты, которые улучшают здоровье клеточных мембран, защищают коллаген и повышают эластичность кожи, а также помогают сократить сухость и дискомфорт. Крем содержит запатентованный комплекс витаминов А, С и Е, который снимает воспаление, способствует удерживанию влаги и улучшает текстуру кожи. Ретинол в усваиваемой форме улучшает процессы эпителизации и кератинизации, а витамин С стимулирует выработку коллагена и осветляет пигментацию.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="145541" available="true">
+        <name>Mesaltera AZELAPEEL 30 мл</name>
+        <url>https://arfolg-rus.ru/azelapeel_ph_3.0_мультикислотный_пилинг_с_противовоспалительными_компонентами_30_мл_флакон/</url>
+        <price>1974</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Уменьшает внешние проявления розацеа и акне, улучшает качество пигментированной и обезвоженной кожи, в том числе чувствительной и с расширенными, близко расположенными к поверхности сосудами]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="145701" available="true">
+        <name>GERnetic CALMING CAPI 7 ампул по 2 мл</name>
+        <url>https://arfolg-rus.ru/calming_capi_newсыворотка_для_активации_роста_волос_и_ухода_за_проблемной_кожей_головы/</url>
+        <price>4190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Высокоэффективная сыворотка комплексно решает основные проблемы кожи головы и волос. Укрепляет корни, предотвращая выпадение волос, и активно стимулирует рост новых волос за счет активации волосяных фолликулов. Формула обеспечивает глубокое увлажнение и выраженный успокаивающий эффект, быстро снимая покраснение и зуд. Результат после первого применения.]]></description>
+        <param name="Объём">7 ампул по 2 мл</param>
+      </offer>
+      <offer id="23579" available="true">
+        <name>GERnetic SENSI BOOST 7 ампул х 2 мл</name>
+        <url>https://arfolg-rus.ru/sensi_boost_успокаивающий_лосьон_для_чувствительной_кожи_в_ампулах_7_ампул_2_мл/</url>
+        <price>4389</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Sensi Boost — успокаивающий лосьон в ампулах от GERnetic для чувствительной кожи. Мгновенно снимает раздражение, успокаивает.]]></description>
+        <param name="Объём">7 ампул х 2 мл</param>
+      </offer>
+      <offer id="25762" available="true">
+        <name>GERnetic L&apos;HOMME 50 мл</name>
+        <url>https://arfolg-rus.ru/lhomme_мужской_крем-гель_3в1_против_усталости_кожи_50_мл_флакон_с_помпой/</url>
+        <price>4988</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[L'Homme — мужской крем-гель 3в1 от GERnetic против усталости кожи. Увлажняет, тонизирует, снимает следы усталости.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="29022" available="true">
+        <name>GERnetic TENSEUR FLASH 40+ 7 ампул х 2 мл</name>
+        <url>https://arfolg-rus.ru/tenseur_flash_лосьон_от_морщин_в_ампулах_40_7_ампул_2_мл/</url>
+        <price>4389</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Tenseur Flash 40+ — лосьон от морщин в ампулах от GERnetic. Мгновенный лифтинг-эффект, разглаживает морщины, подтягивает кожу.]]></description>
+        <param name="Объём">7 ампул х 2 мл</param>
+      </offer>
+      <offer id="29023" available="true">
+        <name>GERnetic LIFT EXPRESS 30+ 7 ампул х 2 мл</name>
+        <url>https://arfolg-rus.ru/lift_express_лосьон_от_первых_морщин_в_ампулах_30_7_ампул_2_мл/</url>
+        <price>3691</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Lift Express 30+ — лосьон от первых морщин в ампулах от GERnetic. Предотвращает и корректирует первые признаки старения.]]></description>
+        <param name="Объём">7 ампул х 2 мл</param>
+      </offer>
+      <offer id="29024" available="true">
+        <name>GERnetic HUILE ESSENTIELLE LAVANDULA 5 мл</name>
+        <url>https://arfolg-rus.ru/huile_essentielle_lavandula_officinalis_эфирное_масло_лаванды_5_мл_флакон/</url>
+        <price>2095</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Эфирное масло лаванды от GERnetic. Успокаивающее, расслабляющее действие.]]></description>
+        <param name="Объём">5 мл</param>
+      </offer>
+      <offer id="29025" available="true">
+        <name>GERnetic HUILE ESSENTIELLE CUPRESSUS 5 мл</name>
+        <url>https://arfolg-rus.ru/huile_essentielle_cupressus_sempervirens_эфирное_масло_кипариса_5_мл_флакон/</url>
+        <price>2095</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Эфирное масло кипариса от GERnetic. Тонизирующее, укрепляющее сосуды действие.]]></description>
+        <param name="Объём">5 мл</param>
+      </offer>
+      <offer id="29026" available="true">
+        <name>GERnetic HUILE ESSENTIELLE RAVENSARA 5 мл</name>
+        <url>https://arfolg-rus.ru/huile_essentielle_ravensara_aromatica_эфирное_масло_равенсары_5_мл_флакон/</url>
+        <price>2095</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Эфирное масло равенсары от GERnetic. Иммуностимулирующее, тонизирующее действие.]]></description>
+        <param name="Объём">5 мл</param>
+      </offer>
+      <offer id="30074" available="true">
+        <name>GERnetic LOTION AUX ACIDES DE FLEURS 40 мл</name>
+        <url>https://arfolg-rus.ru/lotion_aux_acides_de_fleurs_цветочный_лосьон-пилинг_на_основе_фруктовых_кислот/</url>
+        <price>6185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Lotion Aux Acides de Fleurs — цветочный лосьон-пилинг от GERnetic на основе фруктовых кислот. Обновляет кожу, выравнивает тон, стимулирует клеточное обновление.]]></description>
+        <param name="Объём">40 мл</param>
+      </offer>
+      <offer id="35566" available="true">
+        <name>GERnetic MEDUL 200 мл</name>
+        <url>https://arfolg-rus.ru/medul_укрепляющий_восстанавливающий_шампунь_200_мл_флакон_с_помпой/</url>
+        <price>2893</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Medul — укрепляющий восстанавливающий шампунь от GERnetic. Укрепляет, восстанавливает структуру волос.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="35567" available="true">
+        <name>GERnetic CUTICUL EXTRA PLUS 100 мл</name>
+        <url>https://arfolg-rus.ru/cuticul_extra_plus_стимулирующий_концентрат_для_роста_волос_100_мл_флакон_с_распылителем/</url>
+        <price>3691</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Cuticul Extra Plus — стимулирующий концентрат от GERnetic для роста волос. Укрепляет волосяные фолликулы, стимулирует рост.]]></description>
+        <param name="Объём">100 мл</param>
+      </offer>
+      <offer id="35568" available="true">
+        <name>GERnetic BAUME APRÈS RASAGE 50 мл</name>
+        <url>https://arfolg-rus.ru/baume_apres_rasage_противовоспалительный_бальзам_после_бритья_50_мл_туба/</url>
+        <price>3491</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Baume Après Rasage — противовоспалительный бальзам после бритья от GERnetic. Успокаивает, снимает раздражение, увлажняет.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35569" available="true">
+        <name>GERnetic HYDRA MEN 50 мл</name>
+        <url>https://arfolg-rus.ru/hydra_men_увлажняющий_крем_для_мужчин_50_мл_туба/</url>
+        <price>4289</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Hydra Men — увлажняющий крем от GERnetic для мужчин. Глубоко увлажняет, защищает.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35570" available="true">
+        <name>GERnetic LIFT MEN 50 мл</name>
+        <url>https://arfolg-rus.ru/lift_men_лифтинговый_крем_для_мужчин_50_мл_туба/</url>
+        <price>5586</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Lift Men — лифтинговый крем от GERnetic для мужчин. Подтягивает, укрепляет, борется с возрастными изменениями.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35571" available="true">
+        <name>GERnetic GEL MEN 90 мл</name>
+        <url>https://arfolg-rus.ru/gel_men_мужской_очищающий_гель_90_мл_туба/</url>
+        <price>2195</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Gel Men — мужской очищающий гель от GERnetic. Эффективно очищает, тонизирует, подготавливает кожу к уходу.]]></description>
+        <param name="Объём">90 мл</param>
+      </offer>
+      <offer id="35572" available="true">
+        <name>GERnetic LA CRÈME ANTI-TEMPS 30 мл</name>
+        <url>https://arfolg-rus.ru/la_crme_anti-temps_омолаживающий_ночной_крем_30_мл_банка/</url>
+        <price>9875</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[La Crème Anti-Temps — омолаживающий ночной крем из линии LUX от GERnetic. Интенсивно восстанавливает кожу во время сна.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35573" available="true">
+        <name>GERnetic LE CONCENTRÉ RÉPARATEUR 17 мл</name>
+        <url>https://arfolg-rus.ru/le_concentre_reparateur_омолаживающая_сыворотка-концентрат_17_мл_флакон_с_помпой/</url>
+        <price>6883</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Le Concentré Réparateur — омолаживающая сыворотка-концентрат из эксклюзивной линии LUX от GERnetic. Интенсивное anti-age средство класса люкс.]]></description>
+        <param name="Объём">17 мл</param>
+      </offer>
+      <offer id="35574" available="true">
+        <name>GERnetic LA CRÈME JEUNESSE 30 мл</name>
+        <url>https://arfolg-rus.ru/la_crme_jeunesse_омолаживающий_дневной_крем_30_мл_банка/</url>
+        <price>13167</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[La Crème Jeunesse — омолаживающий дневной крем из линии LUX от GERnetic. Восстанавливает молодость, защищает, питает.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35575" available="true">
+        <name>GERnetic MATIÈRE MINÉRALE 350 г</name>
+        <url>https://arfolg-rus.ru/matiere_minerale_лифтинговая_термоактивная_минеральная_маска_350_г_пакет/</url>
+        <price>2394</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Matière Minérale — лифтинговая термоактивная минеральная маска от GERnetic. Профессиональная термоактивная маска с лифтинг-эффектом.]]></description>
+        <param name="Объём">350 г</param>
+      </offer>
+      <offer id="35576" available="true">
+        <name>GERnetic MATIÈRE VÉGÉTALE 400 г</name>
+        <url>https://arfolg-rus.ru/matiere_vegetale_моделирующая_восстанавливающая_растительная_маска_400_г_пакет/</url>
+        <price>2993</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Matière Végétale — моделирующая восстанавливающая растительная маска от GERnetic. Профессиональная термопластичная маска.]]></description>
+        <param name="Объём">400 г</param>
+      </offer>
+      <offer id="35577" available="true">
+        <name>GERnetic HUILE DE BEAUTÉ 500 мл</name>
+        <url>https://arfolg-rus.ru/huile_de_beaute_дренажное_омолаживающее_масло_500_мл_флакон/</url>
+        <price>6484</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Huile de Beauté — дренажное омолаживающее масло от GERnetic. Для профессиональных процедур, массажа, обёртываний.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35578" available="true">
+        <name>GERnetic BASE DE JOUR MARINE 150 мл</name>
+        <url>https://arfolg-rus.ru/base_de_jour_marine_увлажняющий_минерализующий_крем/</url>
+        <price>6185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Base de Jour Marine — увлажняющий минерализующий крем от GERnetic из морской SPA-линии. Насыщает кожу минералами, увлажняет.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35579" available="true">
+        <name>GERnetic BASE DE JOUR MARINE 30 мл</name>
+        <url>https://arfolg-rus.ru/base_de_jour_marine_увлажняющий_минерализующий_крем/</url>
+        <price>3491</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Base de Jour Marine — увлажняющий минерализующий крем от GERnetic из морской SPA-линии. Насыщает кожу минералами, увлажняет.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35580" available="true">
+        <name>GERnetic GER LIFT 150 мл</name>
+        <url>https://arfolg-rus.ru/ger_lift_лифтинговый_крем-активатор/</url>
+        <price>8379</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Ger Lift — лифтинговый крем-активатор от GERnetic из морской SPA-линии. Подтягивает, укрепляет.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35581" available="true">
+        <name>GERnetic GER LIFT 30 мл</name>
+        <url>https://arfolg-rus.ru/ger_lift_лифтинговый_крем-активатор/</url>
+        <price>6185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Ger Lift — лифтинговый крем-активатор от GERnetic из морской SPA-линии. Подтягивает, укрепляет.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35582" available="true">
+        <name>GERnetic MASQUE MARIN 150 мл</name>
+        <url>https://arfolg-rus.ru/masque_marin_лифтинговая_крем-маска/</url>
+        <price>6883</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Masque Marin — лифтинговая крем-маска от GERnetic из морской SPA-линии. Подтягивает, питает, увлажняет.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35583" available="true">
+        <name>GERnetic MASQUE MARIN 30 мл</name>
+        <url>https://arfolg-rus.ru/masque_marin_лифтинговая_крем-маска/</url>
+        <price>4289</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Masque Marin — лифтинговая крем-маска от GERnetic из морской SPA-линии. Подтягивает, питает, увлажняет.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35584" available="true">
+        <name>GERnetic NETTOYANT GOMMANT MARIN 500 мл</name>
+        <url>https://arfolg-rus.ru/nettoyant_gommant_marin_очищающий_гель-скраб/</url>
+        <price>4988</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Nettoyant Gommant Marin — очищающий гель-скраб от GERnetic из морской SPA-линии. Мягко очищает, отшелушивает.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35585" available="true">
+        <name>GERnetic NETTOYANT GOMMANT MARIN 90 мл</name>
+        <url>https://arfolg-rus.ru/nettoyant_gommant_marin_очищающий_гель-скраб/</url>
+        <price>2095</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Nettoyant Gommant Marin — очищающий гель-скраб от GERnetic из морской SPA-линии. Мягко очищает, отшелушивает.]]></description>
+        <param name="Объём">90 мл</param>
+      </offer>
+      <offer id="35586" available="true">
+        <name>GERnetic ENDO SPECIAL PLUS 40 мл</name>
+        <url>https://arfolg-rus.ru/endo_special_plus_восстанавливающий_биоактивный_концентрат_для_бюста_40_мл_флакон_с_распылителем/</url>
+        <price>6783</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Endo Special Plus — восстанавливающий биоактивный концентрат от GERnetic для бюста. Укрепляет, восстанавливает тонус.]]></description>
+        <param name="Объём">40 мл</param>
+      </offer>
+      <offer id="35587" available="true">
+        <name>GERnetic MACRO 2000 150 мл</name>
+        <url>https://arfolg-rus.ru/macro_2000_восстанавливающий_и_укрепляющий_крем_для_бюста/</url>
+        <price>11870</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Macro 2000 — восстанавливающий и укрепляющий крем от GERnetic для бюста. Подтягивает, укрепляет, увлажняет.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35588" available="true">
+        <name>GERnetic MACRO 2000 90 мл</name>
+        <url>https://arfolg-rus.ru/macro_2000_восстанавливающий_и_укрепляющий_крем_для_бюста/</url>
+        <price>10474</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Macro 2000 — восстанавливающий и укрепляющий крем от GERnetic для бюста. Подтягивает, укрепляет, увлажняет.]]></description>
+        <param name="Объём">90 мл</param>
+      </offer>
+      <offer id="35589" available="true">
+        <name>GERnetic SEINO 500 мл</name>
+        <url>https://arfolg-rus.ru/seino_укрепляющий_тонизирующий_лосьон_для_бюста/</url>
+        <price>5287</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Seino — укрепляющий тонизирующий лосьон от GERnetic для бюста. Тонизирует, укрепляет кожу зоны декольте.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35590" available="true">
+        <name>GERnetic SEINO 200 мл</name>
+        <url>https://arfolg-rus.ru/seino_укрепляющий_тонизирующий_лосьон_для_бюста/</url>
+        <price>3392</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Seino — укрепляющий тонизирующий лосьон от GERnetic для бюста. Тонизирует, укрепляет кожу зоны декольте.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="35591" available="true">
+        <name>GERnetic MANNO 40 мл</name>
+        <url>https://arfolg-rus.ru/manno_омолаживающий_крем-активатор_для_рук_40_мл_туба/</url>
+        <price>2095</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Manno — омолаживающий крем-активатор от GERnetic для рук. Восстанавливает, увлажняет, борется с возрастными пятнами.]]></description>
+        <param name="Объём">40 мл</param>
+      </offer>
+      <offer id="35592" available="true">
+        <name>GERnetic HUILE DE MASSAGE 200 мл</name>
+        <url>https://arfolg-rus.ru/huile_de_massage_моделирующее_восстанавливающее_масло/</url>
+        <price>6783</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Huile de Massage — моделирующее восстанавливающее масло от GERnetic для массажа тела. Питает, восстанавливает, моделирует контуры тела.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="35593" available="true">
+        <name>GERnetic LAIT CORPS DOUCER 500 мл</name>
+        <url>https://arfolg-rus.ru/lait_corps_doucer_увлажняющее_и_восстанавливающее_молочко_для_тела/</url>
+        <price>5786</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Lait Corps Doucer — увлажняющее молочко от GERnetic для тела. Восстанавливает тонус, увлажняет, укрепляет.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35594" available="true">
+        <name>GERnetic LAIT CORPS DOUCER 200 мл</name>
+        <url>https://arfolg-rus.ru/lait_corps_doucer_увлажняющее_и_восстанавливающее_молочко_для_тела/</url>
+        <price>3092</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Lait Corps Doucer — увлажняющее молочко от GERnetic для тела. Восстанавливает тонус, увлажняет, укрепляет.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="35595" available="true">
+        <name>GERnetic SOMITO 500 мл</name>
+        <url>https://arfolg-rus.ru/somito_лифтинговый_крем-активатор/</url>
+        <price>17456</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Somito — лифтинговый крем-активатор от GERnetic для тела. Подтягивает, укрепляет, моделирует контуры.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35596" available="true">
+        <name>GERnetic SOMITO 150 мл</name>
+        <url>https://arfolg-rus.ru/somito_лифтинговый_крем-активатор/</url>
+        <price>9077</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Somito — лифтинговый крем-активатор от GERnetic для тела. Подтягивает, укрепляет, моделирует контуры.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35598" available="true">
+        <name>GERnetic ADIPO GASTA 500 мл</name>
+        <url>https://arfolg-rus.ru/adipo_gasta_липолитический_крем-активатор/</url>
+        <price>17456</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Adipo Gasta — липолитический крем-активатор от GERnetic для коррекции избыточных жировых отложений. Содержит кофеин, L-карнитин, экстракт бурых водорослей.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35599" available="true">
+        <name>GERnetic ADIPO GASTA 150 мл</name>
+        <url>https://arfolg-rus.ru/adipo_gasta_липолитический_крем-активатор/</url>
+        <price>9077</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Adipo Gasta — липолитический крем-активатор от GERnetic для коррекции избыточных жировых отложений. Содержит кофеин, L-карнитин, экстракт бурых водорослей.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35600" available="true">
+        <name>GERnetic VASCO ARTERA 500 мл</name>
+        <url>https://arfolg-rus.ru/vasco_artera_антицеллюлитный_крем-активатор/</url>
+        <price>17456</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Vasco Artera — антицеллюлитный крем-активатор от GERnetic. Улучшает микроциркуляцию, борется с целлюлитом.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35601" available="true">
+        <name>GERnetic VASCO ARTERA 150 мл</name>
+        <url>https://arfolg-rus.ru/vasco_artera_антицеллюлитный_крем-активатор/</url>
+        <price>8978</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Vasco Artera — антицеллюлитный крем-активатор от GERnetic. Улучшает микроциркуляцию, борется с целлюлитом.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35602" available="true">
+        <name>GERnetic VEINULO SPECIAL PLUS 40 мл</name>
+        <url>https://arfolg-rus.ru/veinulo_special_plus_антицеллюлитный_лимфодренажный_концентрат_40_мл_флакон_с_распылителем/</url>
+        <price>7182</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Veinulo Special Plus — антицеллюлитный лимфодренажный концентрат от GERnetic. Улучшает лимфоотток, уменьшает отёчность.]]></description>
+        <param name="Объём">40 мл</param>
+      </offer>
+      <offer id="35603" available="true">
+        <name>GERnetic LYMPHO 500 мл</name>
+        <url>https://arfolg-rus.ru/lympho_лимфодренажный_лосьон/</url>
+        <price>6584</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Lympho — лимфодренажный лосьон от GERnetic. Улучшает тонус лимфатических сосудов, снимает тяжесть в ногах. Содержит экстракты женьшеня и конского каштана.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35604" available="true">
+        <name>GERnetic LYMPHO 200 мл</name>
+        <url>https://arfolg-rus.ru/lympho_лимфодренажный_лосьон/</url>
+        <price>3491</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Lympho — лимфодренажный лосьон от GERnetic. Улучшает тонус лимфатических сосудов, снимает тяжесть в ногах. Содержит экстракты женьшеня и конского каштана.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="35605" available="true">
+        <name>GERnetic PEAUX JEUNES 50 мл</name>
+        <url>https://arfolg-rus.ru/peaux_jeunes_крем_для_проблемной_кожи_50_мл_туба/</url>
+        <price>3990</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Peaux Jeunes — крем от GERnetic для молодой проблемной кожи. Регулирует себосекрецию, матирует, оказывает противовоспалительное действие.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35606" available="true">
+        <name>GERnetic SYMBIOSE 150 мл</name>
+        <url>https://arfolg-rus.ru/symbiose_восстанавливающий_крем/</url>
+        <price>11072</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Symbiose — восстанавливающий крем от GERnetic. Нормализует баланс кожи, питает, восстанавливает.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35607" available="true">
+        <name>GERnetic SYMBIOSE 40 мл</name>
+        <url>https://arfolg-rus.ru/symbiose_восстанавливающий_крем/</url>
+        <price>5885</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Symbiose — восстанавливающий крем от GERnetic. Нормализует баланс кожи, питает, восстанавливает.]]></description>
+        <param name="Объём">40 мл</param>
+      </offer>
+      <offer id="35608" available="true">
+        <name>GERnetic GER OXY 150 мл</name>
+        <url>https://arfolg-rus.ru/ger_oxy_увлажняющий_крем/</url>
+        <price>7382</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Ger Oxy — увлажняющий крем от GERnetic. Глубоко увлажняет, насыщает кислородом, придаёт сияние.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35609" available="true">
+        <name>GERnetic GER OXY 40 мл</name>
+        <url>https://arfolg-rus.ru/ger_oxy_увлажняющий_крем/</url>
+        <price>5586</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Ger Oxy — увлажняющий крем от GERnetic. Глубоко увлажняет, насыщает кислородом, придаёт сияние.]]></description>
+        <param name="Объём">40 мл</param>
+      </offer>
+      <offer id="35610" available="true">
+        <name>GERnetic TROPO PLUS 150 мл</name>
+        <url>https://arfolg-rus.ru/tropo_plus_дневной_крем_для_сухой_кожи_150_мл_банка/</url>
+        <price>6384</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Tropo Plus — дневной крем от GERnetic для сухой кожи. Интенсивно питает, защищает от внешних воздействий, восстанавливает липидный барьер.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35611" available="true">
+        <name>GERnetic GEL CONTOUR YEUX 25 мл</name>
+        <url>https://arfolg-rus.ru/gel_contour_yeux_омолаживающий_дренажный_гель_для_контура_глаз_25_мл_туба/</url>
+        <price>5287</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Gel Contour Yeux — омолаживающий дренажный гель от GERnetic для контура глаз. Уменьшает отёки, тёмные круги, разглаживает мелкие морщины.]]></description>
+        <param name="Объём">25 мл</param>
+      </offer>
+      <offer id="35612" available="true">
+        <name>GERnetic MASQUE YEUX 150 мл</name>
+        <url>https://arfolg-rus.ru/masque_yeux_лифтинговая_лимфодренажная_маска_для_век/</url>
+        <price>8579</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Masque Yeux — лифтинговая лимфодренажная маска для век от GERnetic. Снимает отёки, подтягивает, разглаживает морщины в зоне вокруг глаз.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35613" available="true">
+        <name>GERnetic MASQUE YEUX 30 мл</name>
+        <url>https://arfolg-rus.ru/masque_yeux_лифтинговая_лимфодренажная_маска_для_век/</url>
+        <price>4988</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Masque Yeux — лифтинговая лимфодренажная маска для век от GERnetic. Снимает отёки, подтягивает, разглаживает морщины в зоне вокруг глаз.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35614" available="true">
+        <name>GERnetic IMMUNO 150 мл</name>
+        <url>https://arfolg-rus.ru/immuno_регенерирующая_крем-маска/</url>
+        <price>9975</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Immuno — регенерирующая крем-маска от GERnetic. Интенсивно восстанавливает, стимулирует иммунитет кожи.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35615" available="true">
+        <name>GERnetic IMMUNO 50 мл</name>
+        <url>https://arfolg-rus.ru/immuno_регенерирующая_крем-маска/</url>
+        <price>7581</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Immuno — регенерирующая крем-маска от GERnetic. Интенсивно восстанавливает, стимулирует иммунитет кожи.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35616" available="true">
+        <name>GERnetic ARGINI 150 мл</name>
+        <url>https://arfolg-rus.ru/argini_очищающая_успокаивающая_крем-маска/</url>
+        <price>7182</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Argini — очищающая и успокаивающая крем-маска от GERnetic. Глубоко очищает, успокаивает, подходит для проблемной кожи.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35617" available="true">
+        <name>GERnetic ARGINI 50 мл</name>
+        <url>https://arfolg-rus.ru/argini_очищающая_успокаивающая_крем-маска/</url>
+        <price>5686</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Argini — очищающая и успокаивающая крем-маска от GERnetic. Глубоко очищает, успокаивает, подходит для проблемной кожи.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35618" available="true">
+        <name>GERnetic HYDRA GER 150 мл</name>
+        <url>https://arfolg-rus.ru/hydra_ger_увлажняющая_крем-маска/</url>
+        <price>7282</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Hydra Ger — увлажняющая крем-маска от GERnetic. Интенсивно увлажняет, восстанавливает гидробаланс.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35619" available="true">
+        <name>GERnetic HYDRA GER 50 мл</name>
+        <url>https://arfolg-rus.ru/hydra_ger_увлажняющая_крем-маска/</url>
+        <price>6185</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Hydra Ger — увлажняющая крем-маска от GERnetic. Интенсивно увлажняет, восстанавливает гидробаланс.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35620" available="true">
+        <name>GERnetic CELLS LIFE 50 мл</name>
+        <url>https://arfolg-rus.ru/cells_life_интенсивная_восстанавливающая_сыворотка/</url>
+        <price>19551</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Cells Life — интенсивная восстанавливающая сыворотка от GERnetic. Глубоко восстанавливает клетки, стимулирует жизненные процессы кожи.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35621" available="true">
+        <name>GERnetic CELLS LIFE 15 мл</name>
+        <url>https://arfolg-rus.ru/cells_life_интенсивная_восстанавливающая_сыворотка/</url>
+        <price>15960</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Cells Life — интенсивная восстанавливающая сыворотка от GERnetic. Глубоко восстанавливает клетки, стимулирует жизненные процессы кожи.]]></description>
+        <param name="Объём">15 мл</param>
+      </offer>
+      <offer id="35622" available="true">
+        <name>GERnetic MITO SPECIAL PLUS 40 мл</name>
+        <url>https://arfolg-rus.ru/mito_special_plus_омолаживающий_клеточный_концентрат-бустер/</url>
+        <price>8279</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Mito Special Plus — омолаживающий клеточный концентрат-бустер от GERnetic. Интенсивное anti-age средство, стимулирует обновление клеток, восстанавливает молодость кожи.]]></description>
+        <param name="Объём">40 мл</param>
+      </offer>
+      <offer id="35623" available="true">
+        <name>GERnetic MITO SPECIAL PLUS 20 мл</name>
+        <url>https://arfolg-rus.ru/mito_special_plus_омолаживающий_клеточный_концентрат-бустер/</url>
+        <price>5287</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Mito Special Plus — омолаживающий клеточный концентрат-бустер от GERnetic. Интенсивное anti-age средство, стимулирует обновление клеток, восстанавливает молодость кожи.]]></description>
+        <param name="Объём">20 мл</param>
+      </offer>
+      <offer id="35624" available="true">
+        <name>GERnetic CYTOBI 150 мл</name>
+        <url>https://arfolg-rus.ru/cytobi_регенерирующий_питательный_крем/</url>
+        <price>17057</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Cytobi — реструктурирующий питательный крем от GERnetic. Восстанавливает и питает кожу, повышает упругость.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35625" available="true">
+        <name>GERnetic CYTOBI 30 мл</name>
+        <url>https://arfolg-rus.ru/cytobi_регенерирующий_питательный_крем/</url>
+        <price>9776</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Cytobi — реструктурирующий питательный крем от GERnetic. Восстанавливает и питает кожу, повышает упругость.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35626" available="true">
+        <name>GERnetic NUCLEA 150 мл</name>
+        <url>https://arfolg-rus.ru/nuclea_интенсивный_регенерирующий_крем/</url>
+        <price>14264</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Nuclea — интенсивный регенерирующий крем от GERnetic. Усиленная формула для интенсивного восстановления повреждённой и стареющей кожи.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35627" available="true">
+        <name>GERnetic NUCLEA 30 мл</name>
+        <url>https://arfolg-rus.ru/nuclea_интенсивный_регенерирующий_крем/</url>
+        <price>8279</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Nuclea — интенсивный регенерирующий крем от GERnetic. Усиленная формула для интенсивного восстановления повреждённой и стареющей кожи.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35628" available="true">
+        <name>GERnetic SYNCHRO 2000 150 мл</name>
+        <url>https://arfolg-rus.ru/synchro_2000_регенерирующий_базовый_крем_с_облегченной_текстурой/</url>
+        <price>11571</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Synchro 2000 — регенерирующий базовый крем от GERnetic с облегчённой текстурой. Аналог Synchro с более лёгкой текстурой для жирной и комбинированной кожи.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35629" available="true">
+        <name>GERnetic SYNCHRO 2000 50 мл</name>
+        <url>https://arfolg-rus.ru/synchro_2000_регенерирующий_базовый_крем_с_облегченной_текстурой/</url>
+        <price>8978</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Synchro 2000 — регенерирующий базовый крем от GERnetic с облегчённой текстурой. Аналог Synchro с более лёгкой текстурой для жирной и комбинированной кожи.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35630" available="true">
+        <name>GERnetic SYNCHRO 500 мл</name>
+        <url>https://arfolg-rus.ru/synchro_регенерирующий_базовый_крем/</url>
+        <price>22544</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Synchro — базовый регенерирующий питательный крем от GERnetic. Основной продукт марки, входит в комплексные программы ухода. Активирует физиологические процессы на клеточном уровне, обновляет клетки. Подходит для чувствительной кожи, предрасположенной к аллергическим реакциям.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35631" available="true">
+        <name>GERnetic SYNCHRO 250 мл</name>
+        <url>https://arfolg-rus.ru/synchro_регенерирующий_базовый_крем/</url>
+        <price>13865</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Synchro — базовый регенерирующий питательный крем от GERnetic. Основной продукт марки, входит в комплексные программы ухода. Активирует физиологические процессы на клеточном уровне, обновляет клетки. Подходит для чувствительной кожи, предрасположенной к аллергическим реакциям.]]></description>
+        <param name="Объём">250 мл</param>
+      </offer>
+      <offer id="35632" available="true">
+        <name>GERnetic SYNCHRO 50 мл</name>
+        <url>https://arfolg-rus.ru/synchro_регенерирующий_базовый_крем/</url>
+        <price>10873</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Synchro — базовый регенерирующий питательный крем от GERnetic. Основной продукт марки, входит в комплексные программы ухода. Активирует физиологические процессы на клеточном уровне, обновляет клетки. Подходит для чувствительной кожи, предрасположенной к аллергическим реакциям.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35633" available="true">
+        <name>GERnetic MYO MYOSO 150 мл</name>
+        <url>https://arfolg-rus.ru/myo_myoso_крем-активатор_для_коррекции_мимических_морщин/</url>
+        <price>12070</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Myo Myoso — крем-активатор от GERnetic для коррекции мимических морщин. Обладает миорелаксирующим действием, расслабляет мимические мышцы, разглаживает морщины.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35634" available="true">
+        <name>GERnetic MYO MYOSO 50 мл</name>
+        <url>https://arfolg-rus.ru/myo_myoso_крем-активатор_для_коррекции_мимических_морщин/</url>
+        <price>11571</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Myo Myoso — крем-активатор от GERnetic для коррекции мимических морщин. Обладает миорелаксирующим действием, расслабляет мимические мышцы, разглаживает морщины.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35635" available="true">
+        <name>GERnetic CRÈME SPECIALE PEAUX MIXTES ET GRASSES 150 мл</name>
+        <url>https://arfolg-rus.ru/crme_speciale_peaux_mixtes_et_grasses_крем-активатор_для_жирной_и_проблемной_кожи/</url>
+        <price>6584</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Crème Spéciale — крем-активатор от GERnetic для смешанного и жирного типов кожи. Регулирует работу сальных желез, матирует, сужает поры.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35636" available="true">
+        <name>GERnetic CRÈME SPECIALE PEAUX MIXTES ET GRASSES 50 мл</name>
+        <url>https://arfolg-rus.ru/crme_speciale_peaux_mixtes_et_grasses_крем-активатор_для_жирной_и_проблемной_кожи/</url>
+        <price>4190</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Crème Spéciale — крем-активатор от GERnetic для смешанного и жирного типов кожи. Регулирует работу сальных желез, матирует, сужает поры.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="35637" available="true">
+        <name>GERnetic OCTO 150 мл</name>
+        <url>https://arfolg-rus.ru/octo_крем-активатор_дезинкрустант/</url>
+        <price>7581</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Octo — крем-активатор дезинкрустант от GERnetic. Оказывает антибактериальное и противовоспалительное действие, регулирует себосекрецию, сужает поры.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35638" available="true">
+        <name>GERnetic OCTO 30 мл</name>
+        <url>https://arfolg-rus.ru/octo_крем-активатор_дезинкрустант/</url>
+        <price>5387</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Octo — крем-активатор дезинкрустант от GERnetic. Оказывает антибактериальное и противовоспалительное действие, регулирует себосекрецию, сужает поры.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35639" available="true">
+        <name>GERnetic VASCO 150 мл</name>
+        <url>https://arfolg-rus.ru/vasco_крем-активатор_для_чувствительной_кожи/</url>
+        <price>8978</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Vasco — крем-активатор от GERnetic для улучшения микроциркуляции и укрепления сосудистой стенки. Борется с куперозом, уменьшает покраснения.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35640" available="true">
+        <name>GERnetic VASCO 30 мл</name>
+        <url>https://arfolg-rus.ru/vasco_крем-активатор_для_чувствительной_кожи/</url>
+        <price>6783</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Vasco — крем-активатор от GERnetic для улучшения микроциркуляции и укрепления сосудистой стенки. Борется с куперозом, уменьшает покраснения.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="35641" available="true">
+        <name>GERnetic GER PEEL 90 мл</name>
+        <url>https://arfolg-rus.ru/ger_peel_крем-скраб_для_лица/</url>
+        <price>6783</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Ger Peel — крем-скраб от GERnetic для поверхностного пилинга лица. Мягко отшелушивает ороговевшие клетки, выравнивает рельеф, улучшает тон кожи.]]></description>
+        <param name="Объём">90 мл</param>
+      </offer>
+      <offer id="35642" available="true">
+        <name>GERnetic GER PEEL 150 мл</name>
+        <url>https://arfolg-rus.ru/ger_peel_крем-скраб_для_лица/</url>
+        <price>6983</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Ger Peel — крем-скраб от GERnetic для поверхностного пилинга лица. Мягко отшелушивает ороговевшие клетки, выравнивает рельеф, улучшает тон кожи.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="35643" available="true">
+        <name>GERnetic DERMA 500 мл</name>
+        <url>https://arfolg-rus.ru/derma_жидкое_мыло_для_проблемной_кожи/</url>
+        <price>9377</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Derma — жидкое мыло от GERnetic для проблемной кожи. Глубоко очищает, оказывает антибактериальное действие, не пересушивая кожу.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35644" available="true">
+        <name>GERnetic DERMA 200 мл</name>
+        <url>https://arfolg-rus.ru/derma_жидкое_мыло_для_проблемной_кожи/</url>
+        <price>5686</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Derma — жидкое мыло от GERnetic для проблемной кожи. Глубоко очищает, оказывает антибактериальное действие, не пересушивая кожу.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="35645" available="true">
+        <name>GERnetic SEBO GER 200 мл</name>
+        <url>https://arfolg-rus.ru/sebo_ger_лосьон_для_жирной_и_проблемной_кожи/</url>
+        <price>4788</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Sebo Ger — лосьон от GERnetic для жирной и проблемной кожи. Регулирует работу сальных желез, сужает поры, оказывает антибактериальное действие.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="35646" available="true">
+        <name>GERnetic SEBO GER 500 мл</name>
+        <url>https://arfolg-rus.ru/sebo_ger_лосьон_для_жирной_и_проблемной_кожи/</url>
+        <price>5885</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Sebo Ger — лосьон от GERnetic для жирной и проблемной кожи. Регулирует работу сальных желез, сужает поры, оказывает антибактериальное действие.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35647" available="true">
+        <name>GERnetic DEMAQUILLANT DOUCEUR 200 мл</name>
+        <url>https://arfolg-rus.ru/demaquillant_douceur_мицеллярный_лосьон_для_демакияжа_лица_и_глаз/</url>
+        <price>3192</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Demaquillant Douceur — мицеллярный лосьон от GERnetic для бережного снятия макияжа с лица и глаз. Мягко очищает, не раздражая чувствительную кожу век.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="35648" available="true">
+        <name>GERnetic FIBRO 500 мл</name>
+        <url>https://arfolg-rus.ru/fibro_очищающий_восстанавливающий_лосьон_для_лица/</url>
+        <price>5287</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Fibro — очищающий и тонизирующий безалкогольный лосьон для лица от GERnetic. Восстанавливает pH кожи, тонизирует, подготавливает кожу к нанесению активных средств.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35649" available="true">
+        <name>GERnetic FIBRO 200 мл</name>
+        <url>https://arfolg-rus.ru/fibro_очищающий_восстанавливающий_лосьон_для_лица/</url>
+        <price>3691</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Fibro — очищающий и тонизирующий безалкогольный лосьон для лица от GERnetic. Восстанавливает pH кожи, тонизирует, подготавливает кожу к нанесению активных средств.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="35650" available="true">
+        <name>GERnetic GLYCO 500 мл</name>
+        <url>https://arfolg-rus.ru/glyco_очищающее_увлажняющее_молочко_для_лица/</url>
+        <price>5287</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Glyco — очищающее и питательное молочко для лица от GERnetic. Бережно удаляет макияж и загрязнения, не нарушая защитный барьер. Увлажняет и питает кожу, оставляя её мягкой и свежей. Подходит для всех типов кожи.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="35651" available="true">
+        <name>GERnetic GLYCO 200 мл</name>
+        <url>https://arfolg-rus.ru/glyco_очищающее_увлажняющее_молочко_для_лица/</url>
+        <price>3591</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Glyco — очищающее и питательное молочко для лица от GERnetic. Бережно удаляет макияж и загрязнения, не нарушая защитный барьер. Увлажняет и питает кожу, оставляя её мягкой и свежей. Подходит для всех типов кожи.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="36053" available="true">
+        <name>GERnetic MASQUE MARINE ESSENCE 2 кг</name>
+        <url>https://arfolg-rus.ru/masque_marine_essence_лифтинговая_лимфодренажная_маска_из_7_видов_водорослей_2_кг_ведро/</url>
+        <price>9476</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Masque Marine Essence — профессиональная лифтинговая лимфодренажная маска от GERnetic из 7 видов водорослей.]]></description>
+        <param name="Объём">2 кг</param>
+      </offer>
+      <offer id="48562" available="true">
+        <name>Mesaltera BOTOLIFT CONCENTRATE 10 ампул по 2 мл</name>
+        <url>https://arfolg-rus.ru/botolift_concentrate_концентрат_для_коррекции_статических_и_динамических_морщин_и_создания_лифтинг-_эффекта_10_ампул_х_2_мл/</url>
+        <price>1943</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Это активное средство эффективно борется с морщинами и подтягивает кожу. В его состав входит аргирелин (ацетил гексапептид-8), который обладает миорелаксирующим эффектом, а также гиалуроновая кислота. Препарат помогает сократить глубину мимических и статических морщин, предотвращая их появление. Он обладает мощным лимфодренажным эффектом, интенсивно увлажняет кожу, значительно повышает ее эластичность и упругость, разглаживает морщины, а также способствует образованию нового правильного коллагена и эластина.]]></description>
+        <param name="Объём">10 ампул по 2 мл</param>
+      </offer>
+      <offer id="50132" available="true">
+        <name>Mesaltera TRANEXAM PEEL 30 мл</name>
+        <url>https://arfolg-rus.ru/tranexam_peel_комплексный_депигментирующий_мультикислотный_пилинг_ph_2.5_30_мл_флакон/</url>
+        <price>2205</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Содержит мощные отбеливающие, омолаживающие, антиоксидантные и регенерирующие компоненты. Уменьшает площадь и интенсивность
+ гиперпигментации за счет блокировки различных этапов меланогенеза, ускорения удаления пигментированных кератиноцитов и обновления эпидермиса. Активно осветляет кожу, способствует устранению пигментных пятен и предупреждает их появление, выравнивает тон кожи, восстанавливает гидратацию, тонус и эластичность кожи.
+ Транексамовая кислота – 5% Гликолевая кислота – 30% Койевая кислота – 7%
+ Фитиновая кислота – 5% Лимонная кислота – 2% Арбутин – 2%]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="50851" available="true">
+        <name>Mesaltera NEUTRALIZATOR 200 мл</name>
+        <url>https://arfolg-rus.ru/neutralizator_гель_после_химического_пилинга_200_мл_флакон/</url>
+        <price>914</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Предназначен для нейтрализации пилинговых составов на основе АНА- кислот]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="53680" available="true">
+        <name>Mesaltera GENTLE CLEANSER MOUSSE 150 мл</name>
+        <url>https://arfolg-rus.ru/gentle_cleanser_mousse_пенка_очищающая_150_мл_флакон_с_пенообразователем/</url>
+        <price>1617</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Gentle Cleanser Mousse — мягкая очищающая пенка для ежедневного ухода. Эффективно удаляет загрязнения, излишки кожного сала и остатки макияжа, не пересушивая кожу. Средство обладает увлажняющими свойствами благодаря глицерину и пантенолу, которые успокаивают и смягчают кожу. Нежная текстура пенки подходит для чувствительной кожи, не вызывает раздражения и ощущения стянутости. Очищение происходит мягко, сохраняя естественный баланс кожи. Для полного описания можно перейти на страницу товара на сайте.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="53837" available="true">
+        <name>GERnetic COLD CREAM MOUSSE NEW 50 мл</name>
+        <url>https://arfolg-rus.ru/cold_cream_mousse_new_укрепляющий_крем-мусс_для_реактивной_кожи/</url>
+        <price>6085</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Cold Cream Mousse New — укрепляющий крем-мусс от GERnetic для реактивной и чувствительной кожи. Укрепляет, успокаивает, защищает от внешних агрессоров.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="53838" available="true">
+        <name>GERnetic COLD CREAM MOUSSE NEW 150 мл</name>
+        <url>https://arfolg-rus.ru/cold_cream_mousse_new_укрепляющий_крем-мусс_для_реактивной_кожи/</url>
+        <price>7182</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Cold Cream Mousse New — укрепляющий крем-мусс от GERnetic для реактивной и чувствительной кожи. Укрепляет, успокаивает, защищает от внешних агрессоров.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="7343" available="true">
+        <name>Mesaltera MASSAGE RICH CREAM 200 мл</name>
+        <url>https://arfolg-rus.ru/massage_rich_cream_крем_массажный_для_лица_200_мл_туба/</url>
+        <price>2415</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[При контакте с кожей он меняется на масло, что обеспечивает отличное скольжение для различных массажных методик, позволяя варьировать интенсивность нажатий. Активные ингредиенты крема глубоко увлажняют, питает и омолаживают кожу, стимулируя обменные процессы, улучшая микроциркуляцию и способствуя выведению шлаков из клеток. Легкая текстура крема, приятно ароматизированного гуавой и цитрусами, способствует расслаблению и умиротворению. Этот крем идеально подходит для SPA-процедур, не вызывает комедонов и гипоаллергенен.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="7345" available="true">
+        <name>Mesaltera ANTI AGE LIFTING EYE CREAM 30 мл</name>
+        <url>https://arfolg-rus.ru/anti_age_lifting_eye_cream_крем_для_глаз_с_лифтинг-_эффектом_30_мл_диспенсер/</url>
+        <price>2468</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Этот крем представляет собой эффективное решение для борьбы с признаками старения кожи вокруг глаз. Его действие сопоставимо с результатами блефаропластики. Благодаря уникальному запатентованному комплексу BEAUTIFEYE™, крем эффективно подтягивает верхние веки, уменьшает морщины «гусиные лапки», снижает видимость темных кругов и отечности под глазами. Комплекс MATRIXYL® synthe’6 активно заполняет морщины, реструктурирует и выравнивает кожу, замедляя появление новых признаков старения. Крем быстро впитывается, придавая коже упругость и подтянутость.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="7351" available="true">
+        <name>GERnetic CRÈME GG 30 мл</name>
+        <url>https://arfolg-rus.ru/creme_gg_крем_мультифункциональный_для_ухода_за_кожей_лица_с_тонирующим_эффектом_30_мл_туба/</url>
+        <price>3691</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Crème GG — мультифункциональный крем от GERnetic с тонирующим эффектом. Ухаживает, увлажняет, выравнивает тон кожи, маскирует несовершенства.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="7358" available="true">
+        <name>Mesaltera VEGELIP CREAM 50 мл</name>
+        <url>https://arfolg-rus.ru/vegelip_cream_крем_восстанавливающий_увлажняющий/</url>
+        <price>1659</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Восстанавливает, увлажняет, питает и защищает кожу, оказывает мощное антиоксидантное действие. Стимулирует клеточную регенерацию, способствует уменьшению глубины морщин и противодействует процессам преждевременного старения.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="7377" available="true">
+        <name>GERnetic MELANO 50 125 мл</name>
+        <url>https://arfolg-rus.ru/melano_50_cолнцезащитный_крем_для_лица_и_тела_spf_50_125_мл_туба/</url>
+        <price>4988</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Melano 50 — солнцезащитный крем от GERnetic для лица и тела SPF 50. Максимальная защита.]]></description>
+        <param name="Объём">125 мл</param>
+      </offer>
+      <offer id="7378" available="true">
+        <name>GERnetic MELANO 30 125 мл</name>
+        <url>https://arfolg-rus.ru/melano_30_солнцезащитное_молочко_для_лица_и_тела_spf_30_125_мл_флакон_с_распылителем/</url>
+        <price>3491</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Melano 30 — солнцезащитное молочко от GERnetic для лица и тела SPF 30. Спрей-формат, удобное нанесение.]]></description>
+        <param name="Объём">125 мл</param>
+      </offer>
+      <offer id="7379" available="true">
+        <name>GERnetic MELANO 15 90 мл</name>
+        <url>https://arfolg-rus.ru/melano_15_cолнцезащитный_крем_для_лица_и_тела_spf_15_90_мл_туба/</url>
+        <price>2494</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Melano 15 — солнцезащитный крем от GERnetic для лица и тела SPF 15. Защищает от UVA/UVB, увлажняет.]]></description>
+        <param name="Объём">90 мл</param>
+      </offer>
+      <offer id="7404" available="true">
+        <name>Mesaltera GLYCOLIC PEEL MASK 10% 200 мл</name>
+        <url>https://arfolg-rus.ru/glycolic_peel_mask_10_маска-пилинг_с_гликолевой_кислотой_10/</url>
+        <price>2709</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Благодаря своей формуле с 10% гликолевой кислотой, она эффективно отшелушивает кожу, выравнивая ее текстуру, сглаживая мелкие морщины и придавая ей более светлый оттенок.
+ растительных экстрактов.
+ Гликолевый омолаживающий пилинг в виде маски. Оказывает
+ эксфолиирующее действие, очищает и сужает поры, удаляет комедоны, осветляет, выравнивает тон и рельеф кожи, матирует. Подходит для
+ предпилинговой подготовки, детоксицирующих и очищающих программ. Коллаген и эластин в составе способствуют быстрому восстановлению
+ кожи.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="77319" available="true">
+        <name>Mesaltera KELADERM 30 мл</name>
+        <url>https://arfolg-rus.ru/keladerm_антикуперозный_крем_30_мл_диспенсер/</url>
+        <price>2625</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Его формула включает комплекс биофлавоноидов, экстракты растений, а также витамины А и E, что позволяет не только нормализовать микроциркуляцию, но и восстанавливать чувствительную и поврежденную кожу. Крем способствует уменьшению видимости покраснений, улучшает обменные процессы в клетках, увлажняет дерму, а также повышает её тонус и упругость.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="80608" available="true">
+        <name>Mesaltera PROAGE SUNBLOCK SPF 50+ 50 мл</name>
+        <url>https://arfolg-rus.ru/proage_sunblock_spf_50_омолаживающий_солнцезащитный_крем_50_мл_туба/</url>
+        <price>2468</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[PROAGE SUNBLOCK SPF 50+ — многофункциональный крем с высокой степенью защиты SPF, обладающий омолаживающим, увлажняющим, антиоксидантным и регенерирующим эффектом.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="8139" available="true">
+        <name>Mesaltera SENSI PLUS ALOE GEL 100 мл</name>
+        <url>https://arfolg-rus.ru/sensi_plus_aloe_gel_гель_для_чувствительной_и_раздраженной_кожи_100_мл_флакон/</url>
+        <price>1313</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Этот многофункциональный продукт, обогащенный экстрактами кипрея и ромашки, отлично подходит для успокоения и восстановления поврежденной кожи. Основанный на натуральном соке алоэ, гель быстро alleviates дискомфорт, сухость и покраснение, а также уменьшает зуд. Он обладает выраженными увлажняющими свойствами, способствует регенерации кожи и образованию здоровой соединительной ткани при заживлении, минимизируя образование рубцов. Гель стимулирует синтез коллагена I типа и повышает жизнеспособность клеток, улучшая обмен веществ и насыщая кожу кислородом. Благодаря своим антибактериальным и антиоксидантным свойствам, он также усиливает естественную защиту кожи от солнечных лучей.]]></description>
+        <param name="Объём">100 мл</param>
+      </offer>
+      <offer id="8161" available="true">
+        <name>GERnetic LIFT CRÈME 40 мл</name>
+        <url>https://arfolg-rus.ru/lift_crme_лифтинговый_крем_для_ухода_за_кожей_вокруг_глаз_40_мл_туба_с_дозатором/</url>
+        <price>6085</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Lift Crème — лифтинговый крем от GERnetic для ухода за кожей вокруг глаз. Подтягивает, укрепляет, разглаживает глубокие морщины в зоне вокруг глаз.]]></description>
+        <param name="Объём">40 мл</param>
+      </offer>
+      <offer id="8251" available="true">
+        <name>GERnetic VITAL TRANSFER VISAGE 150 мл</name>
+        <url>https://arfolg-rus.ru/vital_transfer_visage_специальный_крем_для_кожи_лица_в_период_менопаузы/</url>
+        <price>11970</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Vital Transfer Visage — крем от GERnetic для кожи лица в период менопаузы. Компенсирует гормональные изменения, восстанавливает упругость, увлажняет.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="8252" available="true">
+        <name>GERnetic VITAL TRANSFER CORPS 250 мл</name>
+        <url>https://arfolg-rus.ru/vital_transfer_corps_специальный_крем_для_кожи_тела_в_период_менопаузы/</url>
+        <price>11970</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Vital Transfer Corps — крем от GERnetic для кожи тела в период менопаузы. Компенсирует гормональные изменения, укрепляет, увлажняет.]]></description>
+        <param name="Объём">250 мл</param>
+      </offer>
+      <offer id="8253" available="true">
+        <name>GERnetic VITAL TRANSFER CORPS 150 мл</name>
+        <url>https://arfolg-rus.ru/vital_transfer_corps_специальный_крем_для_кожи_тела_в_период_менопаузы/</url>
+        <price>6484</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Vital Transfer Corps — крем от GERnetic для кожи тела в период менопаузы. Компенсирует гормональные изменения, укрепляет, увлажняет.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="8254" available="true">
+        <name>GERnetic VITAL TRANSFER VISAGE 50 мл</name>
+        <url>https://arfolg-rus.ru/vital_transfer_visage_специальный_крем_для_кожи_лица_в_период_менопаузы/</url>
+        <price>6983</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Vital Transfer Visage — крем от GERnetic для кожи лица в период менопаузы. Компенсирует гормональные изменения, восстанавливает упругость, увлажняет.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="8588" available="true">
+        <name>GERnetic CRÈME ECLAIRCISSANTE SKIN CLAIR 50 мл</name>
+        <url>https://arfolg-rus.ru/creme_eclaircissante_skin_clair_whitening_отбеливающий_крем_50_мл_туба/</url>
+        <price>5485</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Crème Eclaircissante Skin Clair — отбеливающий крем от GERnetic. Осветляет и выравнивает тон кожи, предотвращает образование новых пигментных пятен.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="8589" available="true">
+        <name>GERnetic SERUM DEPIGMENTANT 25 мл</name>
+        <url>https://arfolg-rus.ru/serum_depigmentant_skin_clair_depigmenting_депигментирующая_сыворотка_25_мл_туба/</url>
+        <price>6584</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Serum Depigmentant Skin Clair — депигментирующая сыворотка от GERnetic. Осветляет пигментные пятна, выравнивает тон кожи.]]></description>
+        <param name="Объём">25 мл</param>
+      </offer>
+      <offer id="8668" available="true">
+        <name>Mesaltera SEBO CONTROL CREAM 50 мл</name>
+        <url>https://arfolg-rus.ru/sebo_control_cream_крем_себорегулирующий_матирующий_50_мл_туба/</url>
+        <price>1523</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Он помогает нормализовать выработку кожного сала и предотвращает появление неприятного блеска. Благодаря содержанию глюконата цинка и экстрактов коры дуба и ивы, крем обладает мощным себорегулирующим, бактериостатическим и противовоспалительным действием, а также помогает в борьбе с акне, сужает поры и способствует их очищению.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="8670" available="true">
+        <name>Mesaltera BIOTIC CREAM 50 мл</name>
+        <url>https://arfolg-rus.ru/biotic_cream_крем_с_пробиотиками_и_пребиотиками_50_мл_туба/</url>
+        <price>1733</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Крем содержит два патентованных биотехнологических комплекса: ProRenew CLR, который состоит из лизата лактококков Lactococcus lactis, и Repair CLR, созданный на основе лизата бактерий Bifido. Первый комплекс поддерживает оптимальные условия для микробиома, а второй защищает эпидермис и дерму от повреждений, вызванных УФ-излучением, активируя природные процессы восстановления клеток и защищая кожу от преждевременного старения.\n\nКроме того, уникальный компонент Prebiulin AGA в виде инулина, полученного из корня цикория, препятствует росту патогенных микроорганизмов и создает оптимальные условия для нормальной флоры кожи.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="8671" available="true">
+        <name>Mesaltera RENEW PEEL 30 мл</name>
+        <url>https://arfolg-rus.ru/renew_peel_пилинг_ревитализирующий_30_мл_флакон/</url>
+        <price>2205</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Содержит активный комплекс AHA и ВНА-кислот, усиливающих и дополняющих действие друг друга]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="8673" available="true">
+        <name>Mesaltera ANTI ACNE DRYING LOTION 30 мл</name>
+        <url>https://arfolg-rus.ru/anti_acne_drying_lotion_лосьон_подсушивающий_для_проблемной_и_жирной_кожи_30_мл_флакон/</url>
+        <price>1533</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Этот лосьон эффективно и быстро помогает избавиться от элементов акне. Уже после первого применения он успокаивает кожу, одновременно подсушивая и маскируя проявления акне. Благодаря содержащемуся в формуле цинку, лосьон обладает антибактериальными свойствами и поддерживает местный иммунитет, снижая вероятность появления новых высыпаний. Камфора улучшает микроциркуляцию, что способствует быстрому исчезновению акне и восстановлению кожи. Специальные пигменты в составе лосьона идеально сливаются с цветом кожи и хорошо маскируют элементы акне.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="8674" available="true">
+        <name>Mesaltera LIFT PEPTIDE CREAM 50 мл</name>
+        <url>https://arfolg-rus.ru/lift_peptide_cream_крем_омолаживающий_для_возрастной_кожи_50_мл_диспенсер/</url>
+        <price>2678</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Этот уникальный крем начинает активно действовать с первых дней применения, обеспечивая заметный лифтинг эффект. Он значительно уменьшает морщины, снижает глубину складок, а также стимулирует образование новых клеток и восстанавливает способности эпидермиса к регенерации.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="8675" available="true">
+        <name>Mesaltera AQUA EXPERT GEL 100 мл</name>
+        <url>https://arfolg-rus.ru/aqua_expert_gel_увлажняющий_гель-_концентрат_с_низкомолекулярной_гиалуроновой_кислотой_и_аминокислотами_100_мл_флакон/</url>
+        <price>1943</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Aqua Expert Gel – это активный гель, созданный для глубокого и длительного увлажнения всех слоев кожи. Он активно борется с признаками обезвоживания, тусклости и сухости, возвращая лицу здоровый и сияющий вид.]]></description>
+        <param name="Объём">100 мл</param>
+      </offer>
+      <offer id="8680" available="true">
+        <name>Mesaltera DMAE ACTIVE CONCENTRATE 10 ампул по 2 мл</name>
+        <url>https://arfolg-rus.ru/dmae_active_concentrate_концентрат_для_создания_четкого_контура_лица_и_повышения_тонуса_кожи_10_ампул_х_2_мл/</url>
+        <price>1733</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Этот активный концентрат с содержанием 6% ДМАЭ был разработан для быстрого и эффективного восстановления четких линий лица и устранения провисания кожи. ДМАЭ обеспечивает мгновенный лифтинг, повышая тонус кожи и усиливая экспрессию генов коллагена I типа, а также матриксной металлопротеиназы на уровне молодой кожи. Это способствует ускорению синтеза нового коллагена, нормализует кровообращение в проблемных областях, стимулирует образование новых фибробластов и укрепляет клеточные мембраны. Высокая концентрация активного ингредиента обеспечивает заметный лифтинг и улучшение общего состояния кожи.]]></description>
+        <param name="Объём">10 ампул по 2 мл</param>
+      </offer>
+      <offer id="8698" available="true">
+        <name>Mesaltera ANTI ACNE HYDRATING CREAM 50 мл</name>
+        <url>https://arfolg-rus.ru/anti_acne_hydrating_cream_крем_увлажняющий_для_проблемной_и_жирной_кожи_50_мл_туба/</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Этот крем имеет легкую текстуру и подходит для всех типов кожи, склонной к акне. Он не только эффективно борется с проявлениями акне, но и обеспечивает интенсивное увлажнение. Благодаря активному комплексу Ac.Net™, крем предотвращает образование акне и комедонов, регулирует выработку кожного сала, способствует сужению пор и обладает успокаивающим эффектом. Комплекс AcquaCell мгновенно насыщает кожу влагой и поддерживает оптимальный уровень гидратации, уменьшая ее реактивность. Масло ши в составе помогает смягчить кожу, восстанавливает липидный барьер и укрепляет ее защитные свойства.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="8747" available="true">
+        <name>Mesaltera ENZYME EXPERTPEEL GEL 200 мл</name>
+        <url>https://arfolg-rus.ru/enzyme_expertpeel_gel_пилинг-гель_энзимный_200_мл_флакон_с_дозатором/</url>
+        <price>1995</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Энзимный пилинг-гель, разработанный для глубокого очищения кожи от комедонов и ороговевших клеток. Он содержит уникальный комплекс Keratoline®, полученный с использованием биотехнологий, который активируется при нанесении на кожу. Этот компонент помогает размягчить комедоны и милиумы, очищая протоки сальных желез. Пилинг также смягчает и увлажняет кожу, способствует обновлению клеток. Идеален для подготовки кожи к механическим и аппаратным процедурам. Подходит для всех типов кожи, включая чувствительную и реактивную.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="8893" available="true">
+        <name>Mesaltera COLLAGEN ACTIVE CONCENTRATE 10 ампул по 2 мл</name>
+        <url>https://arfolg-rus.ru/collagen_active_concentrate_концентрат_для_омоложения_улучшения_качества_кожи_выравнивания_рельефа_10_ампул_х_2_мл/</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Данный препарат создан для повышения качества кожи, устранения возрастных дефектов и морщин. Его состав включает гидролизаты коллагена и эластина, которые призваны восполнить нехватку важных аминокислот, таких как аланин, валин, пролин и глицин — ключевой элемент, регулирующий обмен веществ.]]></description>
+        <param name="Объём">10 ампул по 2 мл</param>
+      </offer>
+      <offer id="8982" available="true">
+        <name>GERnetic GERTHÉRAPI 150 мл</name>
+        <url>https://arfolg-rus.ru/gertherapi_восстанавливающий_крем_для_тела_с_расслабляющим_эффектом/</url>
+        <price>4988</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Gerthérapi — восстанавливающий крем от GERnetic для тела с расслабляющим эффектом из SPA-линии.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="8993" available="true">
+        <name>GERnetic LOTION AUX ACIDES DE FLEURS 20 мл</name>
+        <url>https://arfolg-rus.ru/lotion_aux_acides_de_fleurs_цветочный_лосьон-пилинг_на_основе_фруктовых_кислот/</url>
+        <price>3890</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Lotion Aux Acides de Fleurs — цветочный лосьон-пилинг от GERnetic на основе фруктовых кислот. Обновляет кожу, выравнивает тон, стимулирует клеточное обновление.]]></description>
+        <param name="Объём">20 мл</param>
+      </offer>
+      <offer id="91593" available="true">
+        <name>Mesaltera MILD CLEANSER GEL 200 мл</name>
+        <url>https://arfolg-rus.ru/mild_cleanser_gel_очищающий_гель_для_всех_типов_кожи/</url>
+        <price>1239</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Mild Cleanser Gel — мягкий гель для ежедневного очищения кожи лица. Бережно удаляет загрязнения, излишки себума и остатки макияжа. Формула с увлажняющими компонентами предотвращает ощущение стянутости и сухости после умывания. Гелевая текстура легко смывается водой, оставляя кожу чистой, свежей и увлажненной. Средство подходит для регулярного использования и помогает поддерживать естественный баланс кожи. Для полного описания можно перейти на страницу товара на сайте.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="91594" available="true">
+        <name>Mesaltera MILD CLEANSER GEL 400 мл</name>
+        <url>https://arfolg-rus.ru/mild_cleanser_gel_очищающий_гель_для_всех_типов_кожи/</url>
+        <price>2048</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Mild Cleanser Gel — мягкий гель для ежедневного очищения кожи лица. Бережно удаляет загрязнения, излишки себума и остатки макияжа. Формула с увлажняющими компонентами предотвращает ощущение стянутости и сухости после умывания. Гелевая текстура легко смывается водой, оставляя кожу чистой, свежей и увлажненной. Средство подходит для регулярного использования и помогает поддерживать естественный баланс кожи. Для полного описания можно перейти на страницу товара на сайте.]]></description>
+        <param name="Объём">400 мл</param>
+      </offer>
+      <offer id="92436" available="true">
+        <name>Mesaltera ETHEREAL CLEANSER 400 мл</name>
+        <url>https://arfolg-rus.ru/ethereal_cleanser_эмульсия_очищающая/</url>
+        <price>2048</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Ethereal Cleanser — мягкое очищающее молочко Mesaltera для деликатного удаления загрязнений и макияжа. Подходит даже для чувствительной кожи, сохраняя ощущение свежести и увлажненности. Средство помогает восстановить липидный барьер и защищает кожу от потери влаги. Масло манго питает и смягчает, а центелла азиатская стимулирует синтез коллагена. Аллантоин успокаивает и ускоряет регенерацию, аргинин поддерживает упругость кожи. Для полного описания можно перейти на страницу товара на сайте.]]></description>
+        <param name="Объём">400 мл</param>
+      </offer>
+      <offer id="9405" available="true">
+        <name>GERnetic GERTHÉRAPI 250 мл</name>
+        <url>https://arfolg-rus.ru/gertherapi_восстанавливающий_крем_для_тела_с_расслабляющим_эффектом/</url>
+        <price>7282</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>GERnetic</vendor>
+        <description><![CDATA[Gerthérapi — восстанавливающий крем от GERnetic для тела с расслабляющим эффектом из SPA-линии.]]></description>
+        <param name="Объём">250 мл</param>
+      </offer>
+      <offer id="9406" available="true">
+        <name>Mesaltera BIO ACTIVE CONCENTRATE 10 ампул по 2 мл</name>
+        <url>https://arfolg-rus.ru/bio_active_concentrate_концентрат_для_восстановления_кожи_нормализации_ее_микробиома_10_ампул_х_2_мл/</url>
+        <price>1628</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Этот активный концентрат способствует улучшению питания кожи, стимуляции регенерации и обладает противовоспалительными свойствами. Он помогает регулировать себорею, улучшает микроциркуляцию и восстанавливает защитный барьер эпидермиса.]]></description>
+        <param name="Объём">10 ампул по 2 мл</param>
+      </offer>
+      <offer id="94210" available="true">
+        <name>Mesaltera ETHEREAL CLEANSER 200 мл</name>
+        <url>https://arfolg-rus.ru/ethereal_cleanser_эмульсия_очищающая/</url>
+        <price>1565</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Ethereal Cleanser — мягкое очищающее молочко Mesaltera для деликатного удаления загрязнений и макияжа. Подходит даже для чувствительной кожи, сохраняя ощущение свежести и увлажненности. Средство помогает восстановить липидный барьер и защищает кожу от потери влаги. Масло манго питает и смягчает, а центелла азиатская стимулирует синтез коллагена. Аллантоин успокаивает и ускоряет регенерацию, аргинин поддерживает упругость кожи. Для полного описания можно перейти на страницу товара на сайте.]]></description>
+        <param name="Объём">200 мл</param>
+      </offer>
+      <offer id="94391" available="true">
+        <name>Mesaltera ANTI AGE VC-IP MASK 150 мл</name>
+        <url>https://arfolg-rus.ru/anti_age_vc-ip_mask_интенсивная_омолаживающая_маска/</url>
+        <price>3360</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Эта маска, обладающая мощным омолаживающим эффектом, создана на основе стабильных форм витаминов С и Е, ретинола, феруловой кислоты и комплекса биофлавоноидов, направлена на борьбу с проявлениями хроно- и фотостарения кожи.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="94439" available="true">
+        <name>Mesaltera ANTI ACNE MASK 150 мл</name>
+        <url>https://arfolg-rus.ru/anti_acne_mask_маска_для_проблемной_кожи/</url>
+        <price>1869</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Anti Acne Mask создана для устранения основных причин акне и ухода за проблемной и жирной кожей.]]></description>
+        <param name="Объём">150 мл</param>
+      </offer>
+      <offer id="95879" available="true">
+        <name>Mesaltera PERFEITOPEEL PEELING GOMMAGE CREAM 100 мл</name>
+        <url>https://arfolg-rus.ru/perfeitopeel_peeling_gommage_cream_крем-гоммаж_100_мл/</url>
+        <price>1838</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[ффективно удаляет ороговевшие клетки с поверхности кожи, обеспечивая глубокое отшелушивание. Микросферы масла жожоба не только полируют, но и питают, а также восстанавливают кожу. Этот крем-гоммаж активирует процессы клеточного обновления и улучшает микроциркуляцию крови, делая кожу мягкой и бархатистой. Отличный выбор для "ухода на выходные", который быстро восстановит сияние вашей кожи.]]></description>
+        <param name="Объём">100 мл</param>
+      </offer>
+      <offer id="96665" available="true">
+        <name>Mesaltera RENEW BTX PEEL 30 мл</name>
+        <url>https://arfolg-rus.ru/renew_btx_peel_ревитализирующий_пилинг_с_лифтинг-эффектом_ph_2.2_30_мл_флакон/</url>
+        <price>2709</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Обновленный BTX Peel — это пилинг, который обеспечивает лифтинг, увлажнение и сияние коже. Он обладает омолаживающим, увлажняющим, антиоксидантным и выравнивающим эффектами.
+ Кислоты в составе выполняют терапевтическую функцию и действуют в качестве проводника для активных компонентов.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="96678" available="true">
+        <name>Mesaltera LOCAO RICO PEEL 30 мл</name>
+        <url>https://arfolg-rus.ru/locao_rico_лосьон_с_aha/bha_кислотами_для_лица_и_тела_100_мл_флакон/</url>
+        <price>2258</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Это активный поверхностный лосьон-пилинг, содержащий комплекс AHA/BHA кислот. Он эффективно борется с признаками гиперкератоза, уменьшает количество комедонов и стимулирует процесс клеточного обновления.]]></description>
+        <param name="Объём">30 мл</param>
+      </offer>
+      <offer id="97614" available="true">
+        <name>Mesaltera UV EXPERT SPF 50+ / PА++++ 50 мл</name>
+        <url>https://arfolg-rus.ru/uv_expert_moisturizer_spf_50_крем-сыворотка_солнцезащитная_увлажняющая_50_мл_туба/</url>
+        <price>2079</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Инновационный запатентованный комплекс UV фильтров Uvinul® Easy гарантирует защиту в широком спектре и максимальное время пребывания на солнце для всех фототипов кожи. Комплекс компонентов NMF (натуральный увлажняющий фактор кожи) удерживает влагу, защищает кожу от обезвоженности, обеспечивает пролонгированное увлажнение. Бетаин обладает противовоспалительными свойствами, успокаивает раздражённую кожу.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="98315" available="true">
+        <name>Mesaltera ANTI ACNE MASK 50 мл</name>
+        <url>https://arfolg-rus.ru/anti_acne_mask_маска_для_проблемной_кожи/</url>
+        <price>1155</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Anti Acne Mask создана для устранения основных причин акне и ухода за проблемной и жирной кожей.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="98591" available="true">
+        <name>Mesaltera ANTI AGE VC-IP MASK 50 мл</name>
+        <url>https://arfolg-rus.ru/anti_age_vc-ip_mask_интенсивная_омолаживающая_маска/</url>
+        <price>1838</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <vendor>Mesaltera</vendor>
+        <description><![CDATA[Эта маска, обладающая мощным омолаживающим эффектом, создана на основе стабильных форм витаминов С и Е, ретинола, феруловой кислоты и комплекса биофлавоноидов, направлена на борьбу с проявлениями хроно- и фотостарения кожи.]]></description>
+        <param name="Объём">50 мл</param>
+      </offer>
+      <offer id="coll001" available="true">
+        <name>GlowSeoul Куриный коллаген (пептиды) 500 мл</name>
+        <url>https://arfolg-rus.ru/product/collagen1</url>
+        <price>4210</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <vendor>GlowSeoul</vendor>
+        <description><![CDATA[100% натуральный куриный коллаген (пептиды) без добавок, консервантов и аллергенов от GlowSeoul. Белок более 99%, без наполнителей, крахмала и сахара. Подойдет пожилым людям и спортсменам в период восстановления после травм. Низкомолекулярные пептиды коллагена по корейской формуле для укрепления суставов, хрящей и связок. Одна банка 500 мл рассчитана на месячный курс. Сертифицировано ССГБ.RU.СП01 — чистота лабораторно доказана. Рекомендуемый курс 12 недель, затем поддержка 2–3 раза в неделю.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="coll002" available="true">
+        <name>GlowSeoul Морской коллаген (пептиды) 500 мл</name>
+        <url>https://arfolg-rus.ru/product/collagen2</url>
+        <price>4460</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <vendor>GlowSeoul</vendor>
+        <description><![CDATA[100% натуральный морской коллаген (пептиды) из атлантической трески от GlowSeoul. Белок более 99%, без наполнителей, крахмала и сахара. Корейская формула для восстановления естественной красоты кожи, волос и ногтей. Клинически доказано: морщины «гусиных лапок» уменьшаются на 20–30%, эластичность кожи растёт на 15–28%, увлажнённость +28% (по данным корейских исследований, 100 женщин, 12 недель). Эффект «Glass skin» — ровная, плотная, сияющая кожа. Одна банка 500 мл рассчитана на месячный курс. Сертифицировано ССГБ.RU.СП01.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+      <offer id="coll003" available="true">
+        <name>GlowSeoul Говяжий коллаген (пептиды) 500 мл</name>
+        <url>https://arfolg-rus.ru/product/collagen3</url>
+        <price>3735</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <vendor>GlowSeoul</vendor>
+        <description><![CDATA[100% натуральный говяжий коллаген (пептиды) от GlowSeoul. Белок более 99%, без наполнителей, крахмала и сахара. Идеально подойдет для сосудов, мышц, тканей и ЖКТ. Низкомолекулярные пептиды по корейской формуле. Не содержит аллергены и добавки. Одна банка 500 мл рассчитана на месячный курс. Сертифицировано ССГБ.RU.СП01 — чистота лабораторно доказана. Рекомендуемый курс 12 недель, затем поддержка 2–3 раза в неделю.]]></description>
+        <param name="Объём">500 мл</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
